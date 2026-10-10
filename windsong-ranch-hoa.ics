@@ -1,0 +1,2696 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gairodev//Windsong Ranch HOA feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Windsong Ranch HOA
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZNAME:CDT
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZNAME:CST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e07a0411c4daf978f191acf7981ccd94952ed5f6@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Zumba with Annu @ THE COMMONS
+DTSTART;TZID=America/Chicago:20241017T180000
+DTEND;TZID=America/Chicago:20241017T190000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20251218T235959Z
+LOCATION:THE COMMONS
+CATEGORIES:Recreation
+DESCRIPTION:Get ready to dance your way to fitness with exciting Zumba clas
+ ses! Join certified Zumba instructor Annu for a high-energy workout that c
+ ombines rhythm\, fun\, and effective exercise. Whether you’re a seasoned
+  dancer or just starting out\, classes are designed to get you moving and 
+ grooving.\nContact certified instructor Annu today at (203) 554-1523 to se
+ cure your spot and start your journey to a place where passion meets fitne
+ ss!
+END:VEVENT
+BEGIN:VEVENT
+UID:f191e643eea8df4cd9004c9e483a64b958edffd9@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Zumba with Annu @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20251013T180000
+DTEND;TZID=America/Chicago:20251013T190000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;UNTIL=20251229T235959Z
+LOCATION:THE BRIDGE
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Get ready to dance your way to fitness with exciting Zumba clas
+ ses! Join certified Zumba instructor Annu for a high-energy workout that c
+ ombines rhythm\, fun\, and effective exercise. Whether you’re a seasoned
+  dancer or just starting out\, classes are designed to get you moving and 
+ grooving.\nContact certified instructor Annu today at (203) 554-1523 to se
+ cure your spot and start your journey to a place where passion meets fitne
+ ss!
+END:VEVENT
+BEGIN:VEVENT
+UID:b78688023e099f39b8bff10322b60a31514dc53e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Dinking Divas @ THE COMMONS Sports Courts
+DTSTART;TZID=America/Chicago:20250514T190000
+DTEND;TZID=America/Chicago:20250514T220000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20251231T235959Z
+LOCATION:THE COMMONS Sports Courts
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:cac52383e97dea55246da984dd40aacd066feb37@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mixology Class @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260103T180000
+DTEND;TZID=America/Chicago:20260103T200000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Kick off the new year with a night that’s all about flavor\, 
+ creativity\, and a little bit of flair. Our Mixology Class returns on Satu
+ rday\, January 3 \, inviting residents to dive into the craft of great coc
+ ktails. This lively\, hands-on session is designed to teach you new techni
+ ques\, introduce fresh recipes\, and make the start of 2025 feel just a li
+ ttle more celebratory.\nThe class runs from 6:30 to 8 PM at THE BRIDGE\, a
+ nd costs $15 per person. Registration closes the day before the event at 1
+ 0:00 AM\, so get ready for an evening that mixes learning with a whole lot
+  of fun!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?
+ filter=c2VhcmNoPTQwNTY5OTY=
+END:VEVENT
+BEGIN:VEVENT
+UID:66e6ff54d5332b7667021aaed1dfa825ea9c9915@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Bowling Night @ Strikz
+DTSTART;TZID=America/Chicago:20260117T180000
+DTEND;TZID=America/Chicago:20260117T200000
+LOCATION:Strikz
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Our Offsite Bowling Night on Saturday\, January 17\, from 6 PM 
+ to 8 PM at Strikz in Frisco (8789 Lebanon Rd) is officially sold out! Than
+ k you to everyone who registered—this event filled up quickly.\nPlease r
+ emember that food and beverages will be available for purchase separately 
+ at the venue. Only registered participants who have purchased tickets will
+  appear on the official roster provided to event hosts\, and entry is limi
+ ted to those listed. We look forward to seeing our registered participants
+  for an evening of friendly competition and good times!
+END:VEVENT
+BEGIN:VEVENT
+UID:77a123b30be0ab1905eeeb9382705a57f7d16b6b@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:National Bagel Day @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260115T070000
+DTEND;TZID=America/Chicago:20260115T090000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Start your morning with a warm and delicious treat! Join us on 
+ Thursday\, January 15\, from 7 AM to 9 AM at THE BRIDGE Parking Lot for Na
+ tional Bagel Day! We’ll be handing out fresh bagels to kick off your day
+ —one bagel per person\, while supplies last. Swing by on your way out\, 
+ grab a bite\, and enjoy a little morning pick‑me‑up from your Windsong
+  Ranch team! Registration closes the day before the event at 10:00 AM. We 
+ can't wait to see you there!\nRSVP : https://secure.rec1.com/TX/windsong-r
+ anch-hoa-tx/catalog?filter=c2VhcmNoPTQwNjk1NDg=
+END:VEVENT
+BEGIN:VEVENT
+UID:48ac8df3fd62bce8f1d457bc4c1057764dd72d76@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Intro to Guitar Workshop @ THE COMMONS
+DTSTART;TZID=America/Chicago:20260119T103000
+DTEND;TZID=America/Chicago:20260119T123000
+LOCATION:THE COMMONS
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready to strum\, learn\, and rock out! School of Rock Prosp
+ er is hosting a special Intro to Guitar Workshop right here at THE COMMONS
+  on Monday\, January 19\, from 10:30 AM to 12:30 PM . This fun\, hands‑o
+ n session is open to all ages\, and no musical experience is necessary—j
+ ust bring your curiosity and excitement!\nParticipants will learn the basi
+ cs of guitar in a supportive\, high‑energy environment led by profession
+ al instructors who know how to make music fun. Whether you’ve never pick
+ ed up a guitar before or you're just looking to explore a new hobby\, this
+  workshop is a great way to spark creativity.\nRSVP : https://www.schoolof
+ rock.com/locations/prosper/music-camps/windsong-ranch-instrument-intro-jan
+ uary-…
+END:VEVENT
+BEGIN:VEVENT
+UID:5d11eb79415544f0b44bddfcf0b619922dd11a3b@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Cookies & Mug Painting Night @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260131T180000
+DTEND;TZID=America/Chicago:20260131T200000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Our Holiday Workshop: Cookies & Creativity on Saturday\, Januar
+ y 31\, from 6 PM to 8 PM at THE BRIDGE\, hosted in partnership with Sweet 
+ Dol‑ings\, is officially sold out! Thank you to everyone who registered
+ —this cozy\, hands‑on event filled up quickly.\nParticipants will enjo
+ y a half‑batch cookie‑making workshop (6 cookies per guest) along with
+  a winter‑themed mug‑painting activity. All supplies are provided\, in
+ cluding cookie ingredients\, baking tools\, mugs\, paint\, brushes\, apron
+ s\, recipe cards\, a baking science sheet\, and packaging to take home you
+ r creations. We’re excited to welcome our registered guests for a night 
+ full of creativity\, warmth\, and holiday cheer!
+END:VEVENT
+BEGIN:VEVENT
+UID:596d254edafc90424cf59bf45b27828fb03834cf@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Zumba with Annu @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260105T180000
+DTEND;TZID=America/Chicago:20260105T190000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;UNTIL=20261228T235959Z
+LOCATION:THE BRIDGE
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Get ready to dance your way to fitness with exciting Zumba clas
+ ses! Join certified Zumba instructor Annu for a high-energy workout that c
+ ombines rhythm\, fun\, and effective exercise. Whether you’re a seasoned
+  dancer or just starting out\, classes are designed to get you moving and 
+ grooving.\nContact certified instructor Annu today at (203) 554-1523 to se
+ cure your spot and start your journey to a place where passion meets fitne
+ ss!
+END:VEVENT
+BEGIN:VEVENT
+UID:c9b9665d7251a4acb90863aa06e15cee6919e6fc@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Zumba with Annu @ THE COMMONS
+DTSTART;TZID=America/Chicago:20260108T180000
+DTEND;TZID=America/Chicago:20260108T190000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20261231T235959Z
+LOCATION:THE COMMONS
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Get ready to dance your way to fitness with exciting Zumba clas
+ ses! Join certified Zumba instructor Annu for a high-energy workout that c
+ ombines rhythm\, fun\, and effective exercise. Whether you’re a seasoned
+  dancer or just starting out\, classes are designed to get you moving and 
+ grooving.\nContact certified instructor Annu today at (203) 554-1523 to se
+ cure your spot and start your journey to a place where passion meets fitne
+ ss!
+END:VEVENT
+BEGIN:VEVENT
+UID:c542f4322f554769b69489cc9de5b8d48e7763c7@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Zumba with Annu @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260407T180000
+DTEND;TZID=America/Chicago:20260407T190000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20261230T235959Z
+LOCATION:THE BRIDGE
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Get ready to dance your way to fitness with exciting Zumba clas
+ ses! Join certified Zumba instructor Annu for a high-energy workout that c
+ ombines rhythm\, fun\, and effective exercise. Whether you’re a seasoned
+  dancer or just starting out\, classes are designed to get you moving and 
+ grooving.\nContact certified instructor Annu today at (203) 554-1523 to se
+ cure your spot and start your journey to a place where passion meets fitne
+ ss!
+END:VEVENT
+BEGIN:VEVENT
+UID:d92ed38e20988518d9edf3934ff308e6581b106d@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Yoga For Better You @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260407T180000
+DTEND;TZID=America/Chicago:20260407T193000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20261229T235959Z
+LOCATION:THE BRIDGE
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Windsong Residents! Join Burn Fat\, Build Strength Yoga by Yoga
+  For Better You (YFBY).\nPerfect for residents looking to lose weight\, im
+ prove metabolic and hormonal health\, and build strength.\nThese 60-minute
+  sessions combine yoga\, functional training\, and strength-building movem
+ ents to help boost metabolism\, support sustainable weight loss\, build st
+ rength\, improve sleep\, enhance posture\, increase energy levels\, and re
+ duce stress.\nClasses are suitable for all levels — whether you are star
+ ting your fitness journey or looking to lose weight\, build strength\, and
+  improve overall metabolic and hormonal health.\nContact Certified Weight 
+ Loss Coach & Yoga Alliance Certified Yoga Instructor\, Rashmi Venkat\, at 
+ yogaforbetteryou@gmail.com for more details.
+END:VEVENT
+BEGIN:VEVENT
+UID:67e9af06e211dfd877de1615876c7889e816779c@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Yoga For Better You @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260402T180000
+DTEND;TZID=America/Chicago:20260402T193000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20261231T235959Z
+LOCATION:THE BRIDGE
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Windsong Residents! Join Burn Fat\, Build Strength Yoga by Yoga
+  For Better You (YFBY).\nPerfect for residents looking to lose weight\, im
+ prove metabolic and hormonal health\, and build strength.\nThese 60-minute
+  sessions combine yoga\, functional training\, and strength-building movem
+ ents to help boost metabolism\, support sustainable weight loss\, build st
+ rength\, improve sleep\, enhance posture\, increase energy levels\, and re
+ duce stress.\nClasses are suitable for all levels — whether you are star
+ ting your fitness journey or looking to lose weight\, build strength\, and
+  improve overall metabolic and hormonal health.\nContact Certified Weight 
+ Loss Coach & Yoga Alliance Certified Yoga Instructor\, Rashmi Venkat\, at 
+ yogaforbetteryou@gmail.com for more details.
+END:VEVENT
+BEGIN:VEVENT
+UID:75fbd9a63c51b824749d85834a0b5abadfc219f1@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Dinking Divas @ THE COMMONS Sports Courts
+DTSTART;TZID=America/Chicago:20260107T183000
+DTEND;TZID=America/Chicago:20260107T220000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20261230T235959Z
+LOCATION:THE COMMONS Sports Courts
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Ladies\, ready to play Pickleball with your Windsong Ranch neig
+ hbors? Eight-week night and morning ladder leagues are open to residents 1
+ 8 years and older and are geared toward players at the intermediate level 
+ and above. The cost is only $20 per league!\nInterested in joining? For mo
+ re information\, contact Karen Kinard at (858) 245-3226.
+END:VEVENT
+BEGIN:VEVENT
+UID:27cc753d7e34277a1c2a8d3886671459316c409b@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Dinking Divas @ THE COMMONS Sports Courts
+DTSTART;TZID=America/Chicago:20260106T080000
+DTEND;TZID=America/Chicago:20260106T100000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20261229T235959Z
+LOCATION:THE COMMONS Sports Courts
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Ladies\, ready to play Pickleball with your Windsong Ranch neig
+ hbors? Eight-week night and morning ladder leagues are open to residents 1
+ 8 years and older and are geared toward players at the intermediate level 
+ and above. The cost is only $20 per league!\nInterested in joining? For mo
+ re information\, contact Karen Kinard at (858) 245-3226.
+END:VEVENT
+BEGIN:VEVENT
+UID:d8a48b7445f94747960c07a244465e1d3d50a70e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Dinkin' Dudes @ THE COMMONS Sports Courts
+DTSTART;TZID=America/Chicago:20260108T183000
+DTEND;TZID=America/Chicago:20260108T220000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20261231T235959Z
+LOCATION:THE COMMONS Sports Courts
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Dinkin’ Dudes is the men’s pickleball group for Windsong re
+ sidents\, playing on Thursday nights at 6:30 PM. The group typically has t
+ wo flights of games\, depending on the format used. At times\, the format 
+ is King of the Court\, and other times it’s a round robin.\nThe free Swi
+ sh app is used to automate the lineups and scoring. This league is ideal f
+ or players at the advanced beginner level and beyond. A private GroupMe gr
+ oup is utilized for meet-ups and other communications. See you on the cour
+ ts!
+END:VEVENT
+BEGIN:VEVENT
+UID:95d08e6d65ec62598998c64a0e4831cae63d382c@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Senior Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260107T180000
+DTEND;TZID=America/Chicago:20260107T190000
+RRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=2;BYDAY=WE
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Our mission is to create a welcoming Senior Club where older ad
+ ults can connect\, stay active\, keep learning\, and enjoy life together t
+ hrough friendship\, engaging activities\, and meaningful community involve
+ ment.\nInterested in joining? For more information\, contact Ron Frimere a
+ t windsongranchseniorsclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:9fb11234b2cd31b0571951148c9b5a7089104f8f@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Lunar New Year @ THE COMMONS
+DTSTART;TZID=America/Chicago:20260213T180000
+DTEND;TZID=America/Chicago:20260213T200000
+LOCATION:THE COMMONS
+CATEGORIES:Lifestyle Events
+DESCRIPTION:We’re looking forward to celebrating the Lunar New Year with 
+ you this Friday\, February 13\, from 6:00 to 8:30 PM as we welcome the Yea
+ r of the Horse with an evening full of energy\, light\, and community spir
+ it!\nDue to capacity limitations at THE LAGOON\, the event has been reloca
+ ted to THE COMMONS. All programming and festivities will proceed as planne
+ d\, just in our new location. Please note: The parking lot at THE COMMONS 
+ will be closed off beginning at 4:30 PM to accommodate event setup and ens
+ ure a safe experience for all attendees.\nOur festive celebration includes
+  a live DJ\, glowing firepits\, and a photo booth to capture the moment. F
+ or those who purchased a floating lantern\, our lantern release will take 
+ place at 7:00 PM at THE COMMONS Upper Pools. Then at 7:30 PM\, we’ll gat
+ her for a special highlight of the evening: our lion dance show!\nWe appre
+ ciate your flexibility and understanding as we ensure a safe\, enjoyable e
+ xperience for everyone. We can’t wait to celebrate with you!\nRSVP : htt
+ ps://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQwO
+ DY1MDc=
+END:VEVENT
+BEGIN:VEVENT
+UID:22c3147a08f97fd01e7577eb10ad45314edfa6e1@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Karaoke Night @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260220T180000
+DTEND;TZID=America/Chicago:20260220T200000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready for a night of music and fun! Karaoke Night is happen
+ ing on Friday\, February 20\, from 6 PM to 8 PM at THE BRIDGE. This event 
+ is designed for an adult crowd—whether you’re ready to take the mic or
+  just want to enjoy the show\, it’s the perfect way to unwind at the end
+  of the week.\nEntry is just $5 per person\, and your ticket includes ligh
+ t refreshments\, snacks\, and adult beverages (while supplies last). After
+  checkout\, you’ll receive a downloadable ticket—please bring it on yo
+ ur mobile device or as a printed copy for entry.\nRegistration closes the 
+ day before the event at 10:00 AM. Capacity is limited\, so register early 
+ and secure your spot. We can’t wait to hear you shine on stage!\nRSVP : 
+ https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPT
+ QwOTE5NTg=
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8cca0a078a4996edebfeffee41d49ca33315d0@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:2026 Annual Resident Survey Launch
+DTSTART;TZID=America/Chicago:20260309T173000
+DTEND;TZID=America/Chicago:20260309T203000
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:fe3961691ecc37d1e8af3be70cf24bccd533fba8@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Plant & Sip @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260227T183000
+DTEND;TZID=America/Chicago:20260227T203000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready for spring with a hands‑on terrarium‑making works
+ hop on Friday\, February 27\, at 6:30 PM at THE BRIDGE designed to spark c
+ reativity and bring fresh\, seasonal charm into your home. Hosted by Plant
+  & Sip\, residents will build their own spring‑inspired succulent terrar
+ ium with guidance from an experienced instructor who will walk participant
+ s through each step in a relaxed\, creative environment. You’ll also hav
+ e the chance to personalize your terrarium with decorative elements that r
+ eflect your own style.\nAll materials—including plants\, containers\, to
+ ols\, and décor—will be provided. Light snacks and beverages will be av
+ ailable\, and the event is BYOB for those who would like to enjoy a drink 
+ while they create. The workshop typically lasts 1.5 to 2 hours and offers 
+ a fun\, social way to unwind\, learn something new\, and welcome the new s
+ eason.\nPlease note : Containers\, plants\, and décor may vary slightly b
+ ased on availability\, ensuring each terrarium is uniquely your own.\nRSVP
+  : https://www.plantandsip.com/product/02-27-26-6-30-p-m-Spring-Succulent-
+ Terrarium-Workshop-***PRIVATE-EVENT-FOR-THE-WINDSONG-RANCH-COMMUNITY-RESID
+ ENTS***
+END:VEVENT
+BEGIN:VEVENT
+UID:2c08970d04f09b2193f2f68cb67293346dc0f85d@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Dallas Mavericks Game @ American Airlines Center
+DTSTART;TZID=America/Chicago:20260301T171500
+DTEND;TZID=America/Chicago:20260301T220000
+LOCATION:American Airlines Center
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us for an exciting off‑site trip to the American Airline
+ s Center as the Dallas Mavericks take on the Oklahoma City Thunder! This s
+ pecial outing is open to registered residents and includes both your game 
+ ticket and round‑trip transportation.\nThe game takes place on Sunday\, 
+ March 1 \, with a 7:00 PM tipoff . The bus will depart promptly at 5:15 PM
+  from THE COMMONS and will return immediately after the game. The cost is 
+ $60 per person\, and registration is required. Your fee covers game entry 
+ and transportation\, with tickets assigned within Sections 307 and 308. Se
+ ating is first‑come\, first‑served\, beginning with the lowest rows cl
+ osest to center court.\nTo ensure your group is seated together\, all tick
+ ets must be purchased in a single transaction\; separate registrations may
+  result in your group being split during seat assignment. Please note that
+  tickets are non‑refundable once allocated to your registration. Once pa
+ yment is received\, your tickets will be transferred to the email on file 
+ via Ticketmaster before the event. Your phone will serve as your ticket an
+ d must be presented at check‑in. Tickets are required to board the bus.\
+ nRegistration closes the day before the event at 10:00 AM. Get ready for a
+  fun night of basketball\, community\, and Mavericks spirit—we hope to s
+ ee you there!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/cat
+ alog?filter=c2VhcmNoPTQwOTg5MDQ=
+END:VEVENT
+BEGIN:VEVENT
+UID:d886dbc6ae74c2dd9fb6da2f5da4c24b9acaeb3e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Golf Tournament @ Dallas Cowboys Golf Club
+DTSTART;TZID=America/Chicago:20260307T080000
+DTEND;TZID=America/Chicago:20260307T184500
+LOCATION:Dallas Cowboys Golf Club
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Grab your clubs and join us for a hole-in-one kind of day at th
+ e Dallas Cowboys Golf Club on Saturday\, March 7 ! We're kicking things of
+ f with an 8:00 AM shotgun start \, followed by 18 holes of championship go
+ lf with your own cart.\nEnjoy a delicious breakfast and lunch as part of y
+ our experience. Plus\, show off your skills for a chance to win fantastic 
+ prizes. Including awards for Best Score (Foursome)\, Longest Putt\, Longes
+ t Drive\, and Closest to the Star.\nThe cost is $100 per person\, and spac
+ e is limited to 52 participants\, so don't wait! Registration closes the d
+ ay before the event at 10:00 AM. Sign up today and secure your spot for th
+ is exciting day!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/
+ catalog?filter=c2VhcmNoPTQwOTg4MTY=
+END:VEVENT
+BEGIN:VEVENT
+UID:468d47057d80954f0e853ab00af65c48f789b15f@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Blood Drive @ THE COMMONS
+DTSTART;TZID=America/Chicago:20260328T103000
+DTEND;TZID=America/Chicago:20260328T160000
+LOCATION:THE COMMONS
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Give the gift of life right here in the community. Carter Blood
+ Care will be onsite at THE COMMONS on Saturday\, March 28\, from 10:30 AM 
+ to 4:00 PM with their mobile donation bus. All donors will receive a Quilt
+ ed Tote Bag as a thank‑you\, while supplies last!\nScheduling an appoint
+ ment is encouraged to help keep the process quick and smooth. Don't forget
+ \, a photo ID is required to donate.\nBlood donations make a meaningful im
+ pact for neighbors across North Texas\, and this is a great opportunity to
+  support patients like Brenda from Dallas\, whose life was saved thanks to
+  local donors. Thank you for your contribution to support patients in the 
+ community!\nRegister Here : https://www.greatpartners.org/donor/schedules/
+ drive_schedule/171385
+END:VEVENT
+BEGIN:VEVENT
+UID:80c0881550ff7bf36c8df7168d4f626ab7c19f2e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Freebirds @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260226T180000
+DTEND;TZID=America/Chicago:20260226T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Free Birds is a social club for couples and singles living in W
+ indsong Ranch who are empty nesters or almost empty nesters who want to ha
+ ng out with individuals who are like-minded\, pursue shared interests\, an
+ d are looking to build lasting relationships. The group typically meets mo
+ nthly\, on a Thursday night\, for a variety of themed events\, which inclu
+ de food\, drinks\, and games. Most events are held within the Windsong Ran
+ ch Community\, with a few events held outside the community at nearby loca
+ tions.\nInterested in joining? For more information\, contact the Free bir
+ ds at wsr.freebirds@gmail.com or visit their Facebook page at Windsong Fre
+ e birds .
+END:VEVENT
+BEGIN:VEVENT
+UID:8797957ae376add79dbbd6f0a5adedf56f1b667f@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Freebirds @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260326T180000
+DTEND;TZID=America/Chicago:20260326T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Free Birds is a social club for couples and singles living in W
+ indsong Ranch who are empty nesters or almost empty nesters who want to ha
+ ng out with individuals who are like-minded\, pursue shared interests\, an
+ d are looking to build lasting relationships. The group typically meets mo
+ nthly\, on a Thursday night\, for a variety of themed events\, which inclu
+ de food\, drinks\, and games. Most events are held within the Windsong Ran
+ ch Community\, with a few events held outside the community at nearby loca
+ tions.\nInterested in joining? For more information\, contact the Free bir
+ ds at wsr.freebirds@gmail.com or visit their Facebook page at Windsong Fre
+ e birds .
+END:VEVENT
+BEGIN:VEVENT
+UID:ed2b00f5036ca12cc5d1e0ca397345ac7d8a7e32@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Freebirds @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260423T180000
+DTEND;TZID=America/Chicago:20260423T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Free Birds is a social club for couples and singles living in W
+ indsong Ranch who are empty nesters or almost empty nesters who want to ha
+ ng out with individuals who are like-minded\, pursue shared interests\, an
+ d are looking to build lasting relationships. The group typically meets mo
+ nthly\, on a Thursday night\, for a variety of themed events\, which inclu
+ de food\, drinks\, and games. Most events are held within the Windsong Ran
+ ch Community\, with a few events held outside the community at nearby loca
+ tions.\nInterested in joining? For more information\, contact the Free bir
+ ds at wsr.freebirds@gmail.com or visit their Facebook page at Windsong Fre
+ e birds .
+END:VEVENT
+BEGIN:VEVENT
+UID:5256983c0d7c39369ad5a8cd1411381cde6ffba0@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Pies & Pigskins @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260314T110000
+DTEND;TZID=America/Chicago:20260314T130000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:We’re celebrating Pi Day the Windsong way — with a little m
+ ath\, a little munching\, and a whole lot of fun! Join us on Saturday\, Ma
+ rch 14\, from 11 AM to 1 PM at THE BRIDGE for Pies & Pigskins\, a playful 
+ mash‑up of mini pies (while supplies last) and classic football tailgate
+  games.\nCome enjoy a sweet treat\, toss a football around\, and soak up a
+  lighthearted midday break with your neighbors. Registration closes the da
+ y before the event at 10:00 AM. It’s the perfect blend of Pi Day and pig
+ skin spirit!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/cata
+ log?filter=c2VhcmNoPTQxNjQxOTY=
+END:VEVENT
+BEGIN:VEVENT
+UID:5699df8e87c48760ec8da3186dd55eb8ae233bab@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Around The World | Casino Night @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260327T180000
+DTEND;TZID=America/Chicago:20260327T203000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:3be96afb28038951779f7a7fc35996f63d912ad3@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:School of Rock | Intro to Instruments @ THE COMMONS
+DTSTART;TZID=America/Chicago:20260403T103000
+DTEND;TZID=America/Chicago:20260403T123000
+LOCATION:THE COMMONS
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready to make some music! School of Rock Prosper is hosting
+  an Intro to Keyboards workshop on Friday\, April 3\, from 10:30 AM to 12:
+ 30 PM at THE BRIDGE.\nThis hands‑on session is perfect for beginners and
+  young musicians starting at age 4 and up. For just a $5 fee\, participant
+ s will explore basic keyboard skills in a fun\, energetic\, and supportive
+  environment led by talented School of Rock instructors.\nWhether your chi
+ ld is trying an instrument for the first time or looking to expand their m
+ usical abilities\, this workshop is a great way to spark creativity and co
+ nfidence.\nFor questions\, please reach out to Nancy Brannan at nbrannan@s
+ choolofrock.com and Ryan Brannan at rbrannan@schoolofrock.com .\nRSVP : ht
+ tps://www.schoolofrock.com/locations/prosper/music-camps/windsong-ranch-in
+ strument-intro-april-3-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:73e280ce636776b499eec098b9b5fad35434b2f2@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Easter Eggstravaganza @ THE COMMONS Event Lawn
+DTSTART;TZID=America/Chicago:20260404T153000
+DTEND;TZID=America/Chicago:20260404T183000
+LOCATION:THE COMMONS Event Lawn
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Easter Eggstravaganza is hopping back to THE LAGOON Parking Lot
+  on Saturday\, April 4 from 3:30 PM to 6:30 PM \, bringing a bright\, chee
+ rful afternoon filled with springtime fun for the whole family! The water 
+ will remain closed during the event.\nKids can dive into the excitement wi
+ th a full lineup of carnival rides\, including the Zip Line\, Gator Roller
+  Coaster\, Ballistic Swings\, the Reckless Ride\, Pirates Revenge\, the Su
+ personic Ride\, and an 18‑foot Ferris wheel! Ride bracelets can be purch
+ ased in advance through Civic Rec. After checkout\, you'll receive a downl
+ oadable ticket—please bring it on your mobile device or as a printed cop
+ y. Pickup will be available at THE COMMONS Office from Monday\, March 16 t
+ hrough Friday\, April 3 . Pre-purchased bracelets are $15 per child\, or o
+ n the day of the event for $20 with your required Windsong access card.\nT
+ he celebration continues with a variety of free activities designed to cap
+ ture the magic of the season! Families can enjoy face painting\, a chicks 
+ and bunnies petting zoo\, photos with the Easter Bunny\, two inflatables\,
+  a 30‑foot fun slide\, and the roller‑skating rink. Food trucks will b
+ e on-site offering a range of tasty options to enjoy throughout the day.\n
+ Registration closes at 10:00 AM the day before the event. We're excited to
+  celebrate Easter with you and your family!\nRSVP : https://secure.rec1.co
+ m/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQxOTY5NjQ=\nPurchase B
+ racelets : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter
+ =c2VhcmNoPTQxOTkzOTM=
+END:VEVENT
+BEGIN:VEVENT
+UID:979bcc0ef6a0c116f7144a8d45d87a9979176a0d@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Community Garage Sale
+DTSTART;TZID=America/Chicago:20260411T080000
+DTEND;TZID=America/Chicago:20260411T140000
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready to treasure hunt! Our Community Garage Sale returns o
+ n Saturday\, April 11 and Sunday\, April 12 from 8 AM to 2 PM . This is a 
+ great opportunity to clear out unused items\, shop for bargains\, and supp
+ ort your neighbors throughout the community.\nResidents who wish to partic
+ ipate can add their address on GarageSaleFinder.com to be included on the 
+ community‑wide map and help shoppers find your sale with ease.\nStart ga
+ thering your items and get ready for a fun weekend of community shopping!
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf4a954fc229a13c540038f2081bb5aedeeaf49@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Community Garage Sale
+DTSTART;TZID=America/Chicago:20260412T080000
+DTEND;TZID=America/Chicago:20260412T140000
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:27d5de92682bc95031b054b3ffe5c8e022ab35d5@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Classic Car Show @ THE LAGOON
+DTSTART;TZID=America/Chicago:20260425T100000
+DTEND;TZID=America/Chicago:20260425T130000
+LOCATION:THE LAGOON
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Start your engines and spend the morning with us at the Classic
+  Car Show on Saturday\, April 25\, from 10 AM to 1 PM at the THE LAGOON Pa
+ rking Lot\, sponsored by Toyota of Prosper. Browse an impressive lineup of
+  classic cars\, enjoy great music from a DJ\, and check out a special gues
+ t car featured at the event!\nKids will have plenty to keep them entertain
+ ed with turtle racing and remote‑control car racing\, while adults can r
+ elax with free drinks from The TAP truck while supplies last. Food trucks 
+ will also be on-site\, making it easy to grab a bite and enjoy the atmosph
+ ere. Whether you’re a car enthusiast or just looking for a fun community
+  outing\, this event has something for everyone! Registration closes the d
+ ay before the event at 10:00 AM. We can't wait to see you there!\nRSVP : h
+ ttps://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ
+ yNjE4OTM=
+END:VEVENT
+BEGIN:VEVENT
+UID:c843c85252f4f4195cc3b38b381b63dca0f509ef@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Cinco De Mayo Concert @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260501T183000
+DTEND;TZID=America/Chicago:20260501T203000
+LOCATION:THE COMMONS Pools
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Thank you to everyone who signed up for our Cinco de Mayo Conce
+ rt and for your patience as we work to finalize plans. We’re looking for
+ ward to celebrating with you soon.\nThe event\, featuring a live Mariachi 
+ Band\, will take place at THE COMMONS Pools\, with the date and time to be
+  determined due to weather considerations.\nOnce details are confirmed\, a
+  standalone text and email will be sent with the official update.\nWhen th
+ e celebration happens\, residents can enjoy vibrant mariachi music\, dinne
+ r available for purchase from the Vidorra food truck\, and complimentary c
+ hips and salsa while supplies last.\nWe truly appreciate your flexibility 
+ and can’t wait to bring this festive event to the community!
+END:VEVENT
+BEGIN:VEVENT
+UID:80d8cae47ce0217964da4d20ae337858e486195e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Moms & Mimosas @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260509T110000
+DTEND;TZID=America/Chicago:20260509T140000
+LOCATION:THE COMMONS Pools
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us for a delightful afternoon dedicated to celebrating the
+  amazing moms in our community at Moms & Mimosas on Saturday\, May 9 from 
+ 11 AM to 2 PM at THE BRIDGE. This special event is all about relaxing\, re
+ connecting\, and enjoying a little well‑deserved time just for you.\nSip
+  on mimosas\, enjoy food samplings while supplies last\, and indulge in a 
+ variety of pampering experiences\, including massage chairs\, a perfume‑
+ making bar\, an aromatherapy station\, and other thoughtful touches design
+ ed to make you feel appreciated.\nWhether you come with friends or treat y
+ ourself to a solo afternoon\, it’s the perfect way to slow down and cele
+ brate all that moms do. The cost is $15 per person\, with registration ava
+ ilable through Civic Rec. Registration closes at 10:00 AM the day before t
+ he event. We can’t wait to celebrate you!\nRSVP : https://secure.rec1.co
+ m/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQyNjMzOTI=
+END:VEVENT
+BEGIN:VEVENT
+UID:a31db44e145fdd131670f8994d63f5e02b89185b@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Dino Day @ THE COMMONS
+DTSTART;TZID=America/Chicago:20260605T110000
+DTEND;TZID=America/Chicago:20260605T130000
+LOCATION:THE COMMONS
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready to stomp\, roar\, and explore—Dino Day is back on!\
+ nJoin us on Friday\, June 5\, from 11 AM to 1 PM at THE COMMONS Event Lawn
+  & Pavilion for Dino Day—a prehistoric adventure designed to spark curio
+ sity\, exploration\, and wonder in our youngest residents while celebratin
+ g all things dinosaurs.\nYoung explorers can dig into the fun at the Dino 
+ Dig Site\, where participants will join timed excavation sessions to uncov
+ er hidden fossils in a race against the clock. Dino Dig materials and priz
+ es will be available while supplies last.\nThe event will also feature a M
+ odern Dino Petting Zoo\, where residents can interact with live animals th
+ at resemble their prehistoric ancestors\, offering a fun and educational e
+ xperience with a modern twist. In addition\, families can enjoy dinosaur
+ ‑themed bounce houses and two life‑like animatronic dinosaurs\, creati
+ ng exciting play opportunities and memorable photo moments throughout the 
+ event.\nRegistration closes the day before the event at 10:00 AM. We can
+ ’t wait to see your little explorers roar into action at Dino Day!\nRSVP
+  : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmN
+ oPTQyNzUzODE=
+END:VEVENT
+BEGIN:VEVENT
+UID:95af690b1bec0751783b5d9ab558c44c12c12035@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Dueling Pianos @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260523T183000
+DTEND;TZID=America/Chicago:20260523T200000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get your babysitters lined up and come enjoy a night of music\,
+  laughter\, and entertainment at our Dueling Pianos event!\nJoin us on Sat
+ urday\, May 23\, from 6:30 to 8 PM at THE BRIDGE and enjoy a high-energy\,
+  interactive show where talented musicians take your song requests and bat
+ tle it out on the keys.\nTickets are $15 per person and include light food
+  and drinks—this event is BYOD so feel free to bring your favorite drink
+ s to enjoy. Seating is limited\, so be sure to register early!\nTicket sal
+ es close the day before the event at 10:00 AM or when tickets sell out. Do
+ n't miss this lively evening—grab your friends\, make your requests\, an
+ d sing along to all your favorite tunes!\nRSVP : https://secure.rec1.com/T
+ X/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQzMTQ4NDc=
+END:VEVENT
+BEGIN:VEVENT
+UID:d7b4d3c3fd1dee86b277678e344da2d67d293533@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:National Burger Day @ THE LAGOON
+DTSTART;TZID=America/Chicago:20260528T110000
+DTEND;TZID=America/Chicago:20260528T130000
+LOCATION:THE LAGOON
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Fire up your lunchtime plans and join us for National Burger Da
+ y at THE LAGOON on Thursday\, May 28\, from 11 AM to 1 PM . It’s the per
+ fect excuse to step away from the routine\, soak in the sunshine\, and enj
+ oy a classic favorite with neighbors!\nThe Egg Stand will be on site grill
+ ing up delicious burgers\, and the first 50 attendees will receive a burge
+ r on us\, while supplies last. Come early to claim yours and enjoy a tasty
+  midday break in a fun\, laid‑back setting.\nRegistration closes the day
+  before the event at 10:00 AM. Whether you’re grabbing lunch with friend
+ s or just stopping by for a quick bite\, this is one community event you w
+ on’t want to miss!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa
+ -tx/catalog?filter=c2VhcmNoPTQzMTQ2MTI=
+END:VEVENT
+BEGIN:VEVENT
+UID:281e9045058db9449b3ad9ca8fe744cadd76892e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Dad's MVP Lounge @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260613T120000
+DTEND;TZID=America/Chicago:20260613T140000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Dads\, this ones for you! Celebrate Father’s Day weekend in s
+ tyle at Dad’s MVP Lounge on Saturday\, June 13\, from 12 to 2 PM at THE 
+ BRIDGE. Enjoy a delicious brisket nacho bar\, wings\, and cold beer while 
+ catching the game on TV and trying your hand at everything from axe throwi
+ ng and arcade games to foosball\, shuffleboard\, air hockey\, and more!\nC
+ hallenge friends to cornhole\, test your skills on the putting greens\, or
+  sit back with cards\, dominoes\, and a pool table. The first 200 guests w
+ ill receive a commemorative Dad’s MVP Lounge beer mug\, and raffles will
+  be happening throughout the event.\nRegistration closes the day before th
+ e event at 10:00 AM. We can't wait to celebrate you!\nRSVP : https://secur
+ e.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQzMzY4MDI=
+END:VEVENT
+BEGIN:VEVENT
+UID:8bc07b0e8bae2dc60690f71d6d20fb5792f3e0fe@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Windsong World Cup @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260619T130000
+DTEND;TZID=America/Chicago:20260619T160000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join your neighbors at THE BRIDGE on Friday\, June 19\, from 1:
+ 30 to 4 PM for a community World Cup Watch Party featuring the USA vs. Aus
+ tralia match\, streamed live to create a fun and social atmosphere for res
+ idents to enjoy together. This free event invites attendees to show their 
+ team spirit by wearing their favorite national team jerseys. Registration 
+ closes the day before at 10:00 AM.\nIn addition to watching the game\, res
+ idents can participate in a variety of activities\, including foot darts\,
+  shuffleboard\, a foosball table\, and a soccer speed kick cage\, with raf
+ fle prizes awarded throughout the event in connection with select activiti
+ es.\nEnjoy complimentary beer and non-alcoholic beverages while supplies l
+ ast\, including a special selection of beers from around the world—featu
+ ring favorites from Ireland\, the Netherlands\, Mexico\, Japan\, and more!
+  A food truck will also be on-site offering food for purchase\, and reside
+ nts are welcome to bring their own food and beverages.\nFamilies and kids 
+ are encouraged to bring their World Cup Panini sticker albums and stickers
+  to sell at our dedicated trading station—connect with neighbors and bui
+ ld your collection together! Raffle prizes throughout the event will inclu
+ de items such as commemorative mugs\, adult drink sets\, and Panini sticke
+ r books with sticker packs.\nPlease note that tables and seating are first
+  come\, first served\; standing room will be available once seating is ful
+ l. This event is proudly sponsored by NZone Sports\, and we look forward t
+ o celebrating the World Cup with the Windsong community.\nRSVP : https://s
+ ecure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQyOTc4MDI
+ =
+END:VEVENT
+BEGIN:VEVENT
+UID:d5da1dee57e4b607fdb00343519c99f015d3c444@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Juneteenth @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260619T180000
+DTEND;TZID=America/Chicago:20260619T200000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us for an uplifting and meaningful evening as we come toge
+ ther to celebrate Juneteenth with a special Prosperity Meal at THE BRIDGE 
+ on Friday\, June 19\, from 6 to 8 PM. This inspiring event is an opportuni
+ ty to honor history\, embrace culture\, and connect with neighbors in a wa
+ rm and welcoming atmosphere.\nEnjoy a relaxed evening filled with deliciou
+ s food\, lively music\, and exciting raffles\, along with thoughtful momen
+ ts of reflection featuring poetry and a brief look at the history and sign
+ ificance of Juneteenth. It’s a meaningful way to come together\, celebra
+ te heritage\, and share in an evening centered on community and connection
+ .\nThis is a ticketed event\, and a downloadable ticket will be provided a
+ fter checkout. Please bring your ticket—either on your mobile device or 
+ as a printed copy—as it will be scanned at the door for entry.\nSpace is
+  limited to 100 guests and is expected to fill quickly—secure your spot 
+ early. Registration will close at 10:00 AM the day before the event or onc
+ e capacity is reached.\nRSVP : https://secure.rec1.com/TX/windsong-ranch-h
+ oa-tx/catalog?filter=c2VhcmNoPTQzNTIwNDc=
+END:VEVENT
+BEGIN:VEVENT
+UID:713081024155a7f9988aa4d7bcfa3c4f67c197da@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Star-Spangled Bash @ THE COMMONS Event Lawn
+DTSTART;TZID=America/Chicago:20260620T173000
+DTEND;TZID=America/Chicago:20260620T213000
+LOCATION:THE COMMONS Event Lawn
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us for one of the most anticipated celebrations of the yea
+ r as we come together to honor America’s 250th birthday in true red\, wh
+ ite\, and blue style! On Saturday\, June 20 \, our Star-Spangled Bash prom
+ ises a full day of patriotic pride\, community spirit\, and unforgettable 
+ fun.\nThe celebration begins with our beloved annual Golf Cart Parade ! Li
+ ne-up starts at 3:30 PM at THE LAGOON\, with the parade rolling out at 4:3
+ 0 PM . Deck out your cart in festive décor\, gather your crew\, and show 
+ off your American spirit as we kick off the evening with this favorite com
+ munity tradition.\nThen\, head to THE COMMONS Event Lawn from 5:30 to 9:30
+  PM where the celebration continues with live music\, lively vendor booths
+ \, interactive games\, and activities for all ages. Food trucks will be se
+ rving up delicious favorites all evening long\, making it easy to relax\, 
+ enjoy\, and soak in the festive atmosphere.\nAs the night reaches its peak
+ \, join friends and neighbors for a spectacular fireworks finale at 9:30 P
+ M \, lighting up the sky in a dazzling tribute to 250 years of American hi
+ story\, freedom\, and unity.\nThis event is free to attend\, but registrat
+ ion is required on Civic Rec and will close Friday\, June 19 at 10:00 AM. 
+ Residents should wear their Windsong access card for entry\; those without
+  a card may be asked to present a valid photo ID.\nA special thank you to 
+ Cook’s Children for serving as our signature sponsor for this incredible
+  evening. Let’s come together to celebrate this historic milestone in a 
+ big way—we can’t wait to see you there!\nRSVP : https://secure.rec1.co
+ m/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQzNTIwOTg=
+END:VEVENT
+BEGIN:VEVENT
+UID:36f02d2e2364761f03b0f59f5bc85010337c9683@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Texas Rangers Game
+DTSTART;TZID=America/Chicago:20260712T103000
+DTEND;TZID=America/Chicago:20260712T163000
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Batter up! Get ready for a fun-filled day of baseball\, great f
+ ood\, and community spirit at the Texas Rangers Game on Sunday\, July 12 !
+  The game begins at 1:35 PM \, and we’ll kick off the day by gathering a
+ t THE COMMONS at 11:30 AM to board the bus and travel to the ballpark toge
+ ther.\nFor just $60 per ticket\, you’ll enjoy:\nSeats in the outfield se
+ ction\nAll-you-can-eat ballpark favorites\, including hot dogs\, burgers\,
+  chicken sandwiches\, and soda\nWith only 90 tickets available\, this even
+ t is expected to sell out quickly—so don’t wait! Registration closes t
+ he day before the game at 10:00 AM. Be sure to reserve your spot and join 
+ us for an unforgettable day cheering on the Rangers. We can’t wait to se
+ e you there!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/cata
+ log?filter=c2VhcmNoPTQzODMwNzA=
+END:VEVENT
+BEGIN:VEVENT
+UID:c7bfe237a905c871ccded5348dc9a3b26904f9ad@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Murder Mystery Dinner @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260718T180000
+DTEND;TZID=America/Chicago:20260718T200000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:ef076989444f576fbe2dc3aa727a19653dbd5581@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:School of Rock | Intro to Drums @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260722T103000
+DTEND;TZID=America/Chicago:20260722T123000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:The School of Rock Prosper is back with another exciting worksh
+ op! Get ready to make some music! School of Rock Prosper is hosting an Int
+ ro to Drums workshop on Wednesday\, July 22\, from 10:30 AM to 12:30 PM at
+  THE BRIDGE.\nThis hands-on workshop is perfect for beginners and young mu
+ sicians ages 4 and up who are ready to explore the fundamentals of drummin
+ g. For just a $5 fee \, participants will learn basic drum techniques\, rh
+ ythm\, and coordination in a fun\, energetic\, and supportive environment 
+ led by talented School of Rock instructors.\nWhether your child is picking
+  up drumsticks for the first time or looking to expand their musical talen
+ ts\, this workshop is a great way to build confidence\, creativity\, and a
+  lifelong love of music.\nFor questions\, please reach out to Nancy Branna
+ n at nbrannan@schoolofrock.com and Ryan Brannan at rbrannan@schoolofrock.c
+ om . Come ready to play\, learn\, and rock!\nRSVP : Coming soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:8dd7f0a0db62ee520bbe73100a0c172f6f2a4b56@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Summer Luau @ THE LAGOON
+DTSTART;TZID=America/Chicago:20260801T180000
+DTEND;TZID=America/Chicago:20260801T210000
+LOCATION:THE LAGOON
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Escape to the islands without leaving the neighborhood at our S
+ ummer Luau! Join us on Saturday\, August 1\, from 6 PM to 9 PM at THE LAGO
+ ON for an unforgettable evening filled with tropical entertainment\, delic
+ ious food\, and fun for all ages. Grab your favorite Hawaiian shirt and ge
+ t ready to experience the spirit of aloha!\nEnjoy live Polynesian dancers\
+ , thrilling fire performers\, and a special visit from Moana. Dance the ni
+ ght away with our live DJ\, cool off on exciting water slides\, or test yo
+ ur skills on the coconut tree climbing wall. Create island-inspired crafts
+ \, sample a traditional pig roast\, and treat yourself to delicious eats f
+ rom a variety of food trucks. Be sure to stop by our Tiki Bar\, where you'
+ ll find refreshing specialty mocktails perfect for sipping all evening lon
+ g.\nThis event requires an RSVP through CivicRec due to safety and capacit
+ y limitations. Please have your CivicRec tickets ready to be scanned at th
+ e entrance gate upon arrival. To help us get everyone checked in quickly\,
+  we encourage you to have your tickets pulled up before reaching the entra
+ nce gate.\nPlease note: THE LAGOON will close promptly at 3 PM on Saturday
+ \, August 1\, to allow for event setup. We appreciate your understanding a
+ s we prepare for the evening's festivities.\nRegistration closes the day b
+ efore the event at 10:00 AM. Whether you're coming for the entertainment\,
+  the food\, or the tropical vibes\, this is one summer celebration you won
+ 't want to miss. Gather your family\, invite your neighbors\, and get read
+ y for an evening of island fun right here in the community!\nRSVP : https:
+ //secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ0MTQ1
+ OTU=
+END:VEVENT
+BEGIN:VEVENT
+UID:d776daeaa70f2c20e0fdd83329de8de2304e5094@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Back-to-School Day @ Boulder Adventure Park
+DTSTART;TZID=America/Chicago:20260807T110000
+DTEND;TZID=America/Chicago:20260807T140000
+LOCATION:Boulder Adventure Park
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Start the school year with an action-packed trip to Bolder Adve
+ nture Park in Grand Prairie on Friday\, August 7 ! Join your neighbors for
+  a day of adventure featuring play areas\, climbing attractions\, bumper c
+ ars\, tubing slides\, and your choice of either the Ropes Course & Zip Lin
+ es or the Via Ferrata Mountain Experience (height and weight requirements 
+ apply).\nRegistration is $20 per participant and limited to the first 50 r
+ esidents. Transportation is included\, with departure from THE COMMONS at 
+ approximately 9:45 AM . and park activities from 11 AM TO 2 PM . Participa
+ nts should arrive 15 to 20 minutes early for check-in and boarding.\nResid
+ ents are encouraged to coordinate guardian chaperones to help maximize par
+ ticipation and ensure a safe experience for all attendees. Be sure to revi
+ ew the park FAQs and complete the required waiver before arrival. Comforta
+ ble clothing and closed-toe shoes are required. Food and beverages will be
+  available for purchase on-site\; outside food and drinks are not permitte
+ d.\nWe look forward to celebrating the start of a great school year with a
+ n exciting adventure at Bolder Adventure Park!\nRSVP : https://secure.rec1
+ .com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ0MTI4NzA=
+END:VEVENT
+BEGIN:VEVENT
+UID:5e532d41e84e7fa8dbaebbe63ad90b9cab861e3d@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:National Lemonade Day @ THE LAGOON
+DTSTART;TZID=America/Chicago:20260820T160000
+DTEND;TZID=America/Chicago:20260820T173000
+LOCATION:THE LAGOON
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Celebrate the sweet taste of summer with us at THE LAGOON on Th
+ ursday\, August 20\, from 4 PM to 6 PM for National Lemonade Day!\nStop by
+  the lemonade stand and cool off with a refreshing glass of lemonade while
+  supplies last. The first 50 lemonades are FREE\, so be sure to arrive ear
+ ly to claim yours!\nWhether you're spending the afternoon at THE LAGOON or
+  just looking for a refreshing treat\, we can't wait to celebrate with you
+ . See you there!
+END:VEVENT
+BEGIN:VEVENT
+UID:fe951f9047d52f3e3a2022b4cef32e9aa1900885@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Goat Yoga @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260822T093000
+DTEND;TZID=America/Chicago:20260822T103000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready to stretch\, smile\, and laugh your way through one o
+ f our most popular wellness events—Goat Yoga!\nOn Saturday\, August 22 f
+ rom 9:30 to 10:30 AM at THE COMMONS\, residents will enjoy a one-of-a-kind
+  yoga experience featuring adorable\, playful goats. Whether you're a seas
+ oned yogi or trying yoga for the first time\, this lighthearted class is p
+ erfect for all skill levels. Expect plenty of laughs\, photo opportunities
+ \, and maybe even a goat or two joining you on your mat!\nThis event is no
+ w SOLD OUT! We can't wait to see our registered participants for a morning
+  of relaxation\, fun\, and furry friends. If you would still like to atten
+ d\, we encourage you to RSVP to join the waitlist.\nOpenings may become av
+ ailable if registered participants cancel\, and waitlisted residents will 
+ be contacted in the order RSVP requests are received.\nRSVP : https://secu
+ re.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ0MTQ2OTg=
+END:VEVENT
+BEGIN:VEVENT
+UID:527dc6e8599f11ba30bcc3a5fb54e5cc3ba1c60f@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Summer Sips Mixology Class @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260822T183000
+DTEND;TZID=America/Chicago:20260822T200000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Cool off and shake things up at our Summer Sips Mixology Class 
+ on Saturday\, August 22\, from 6:30 PM to 8:30 PM at THE BRIDGE!\nJoin us 
+ for an interactive evening where you'll learn how to craft three refreshin
+ g cocktails perfect for beating the summer heat. Whether you're looking to
+  impress at your next gathering or simply want to expand your bartending s
+ kills\, this hands-on class is the perfect way to sip\, learn\, and have f
+ un.\nTickets are $15 per person and include hands-on instruction as you ma
+ ke three refreshing summer cocktails\, plus light snacks to enjoy througho
+ ut the evening.\nSpace is limited\, so be sure to reserve your spot early.
+  Grab your ticket and get ready to sip\, shake\, and toast to summer!\nRSV
+ P : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2Vhcm
+ NoPTQ0MTQ3NDA=
+END:VEVENT
+BEGIN:VEVENT
+UID:25b4ff39f0b370ed2d410fd0ea61e57300d37aa0@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Havana Night @ THE LAGOON
+DTSTART;TZID=America/Chicago:20260829T180000
+DTEND;TZID=America/Chicago:20260829T210000
+LOCATION:THE LAGOON
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready for a night of vibrant music\, bold flavors\, and cas
+ ino excitement as Havana Night takes over THE LAGOON!\nJoin us on Saturday
+ \, August 29 from 6 PM to 9 PM for an evening inspired by the sights\, sou
+ nds\, and flavors of Havana. Dance the night away to the sounds of a live 
+ Latin band\, enjoy catered Cuban cuisine\, and grab your favorite cocktail
+  from the cash bar.\nFeeling lucky? Step up to our casino tables and play 
+ your favorite casino-style games throughout the evening. The more you play
+ \, the more tickets you can earn for your chance to win exciting prizes!\n
+ We'll also have a live cigar roller demonstrating the art of hand-rolled c
+ igars throughout the evening\, with a complimentary cigar for the first 10
+ 0 guests.\nWhether you're hitting the dance floor\, trying your luck at th
+ e tables\, enjoying a cigar\, or simply soaking up the atmosphere\, it's g
+ oing to be a summer night to remember!\nTickets are $15 per person. RSVP i
+ s required and will close at 10:00 AM on Friday\, August 28. Be sure to pu
+ rchase your tickets before the deadline to join us for Havana Night!\nRSVP
+  : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmN
+ oPTQ0Mzc1NzI=
+END:VEVENT
+BEGIN:VEVENT
+UID:761b242a4dcd071f67af2040c796bb7ff313bb1b@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Sip & Savor Wine Tasting @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260905T183000
+DTEND;TZID=America/Chicago:20260905T203000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us at THE BRIDGE on Saturday\, September 5\, from 6:30 to 
+ 8:30 PM for an evening of great flavors\, good company\, and a little wine
+  education at our Sip & Savor Wine Tasting!\nEnjoy a guided tasting led by
+  a professional sommelier as we explore four carefully selected wines\, ea
+ ch paired with a delicious small plate designed to complement the flavors 
+ of the wine. With four wines and four different bites to enjoy\, you’ll 
+ have the opportunity to discover new favorites while learning more about w
+ ine pairings along the way.\nTickets are $30 per person\, with sales endin
+ g at 10 AM on Friday\, September 4. Space is limited\, so be sure to grab 
+ your tickets before sales close!\nRSVP : https://secure.rec1.com/TX/windso
+ ng-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ0NjQ1NzI=
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4bc57ff39f629084a4b9b088add83f68f09f4c@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Chess Tournament @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260912T080000
+DTEND;TZID=America/Chicago:20260912T140000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:16d561331ffd407734c251554e67c3202797dcfa@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Laughs After Dark Comedy Night @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260919T180000
+DTEND;TZID=America/Chicago:20260919T200000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Leave the kids at home and get ready for a night of laughs\, go
+ od vibes\, and grown-up fun! Join us for Laughs After Dark on Saturday\, S
+ eptember 19\, from 6 PM to 7:30 PM at THE BRIDGE\, featuring three awesome
+ \, funny\, and trusted professional comedians bringing their best stand-up
+  to the stage. Grab your friends\, your partner\, or your favorite neighbo
+ r and enjoy a night out filled with plenty of laughs.\nThe comedy show wil
+ l have a maximum rating of PG-13\, making it the perfect opportunity for a
+ dults to unwind and enjoy an evening of entertainment with fellow resident
+ s. Tickets are $15 per person\, and ticket sales close at 10:00 AM the day
+  before the event. Residents are welcome to bring their own beverages to e
+ njoy during the show. Come ready to relax\, laugh\, and enjoy a comedy nig
+ ht made just for the adults!\nRSVP : https://secure.rec1.com/TX/windsong-r
+ anch-hoa-tx/catalog?filter=c2VhcmNoPTQ0NjQ1Nzg=
+END:VEVENT
+BEGIN:VEVENT
+UID:bf35b444f1309abfa330bf3a226d14e6db20073b@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Howl-o-ween Puppy Plunge @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20261011T140000
+DTEND;TZID=America/Chicago:20261011T160000
+LOCATION:THE COMMONS Pools
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready for the cutest Halloween event of the year! Bring you
+ r four-legged family members to THE COMMONS on Saturday\, October 11\, fro
+ m 2 to 4 PM for a fun-filled day of treats\, activities\, and\, of course\
+ , swimming!\nFree Nail Clippings\nKontota Mobile Grooming will be offering
+  free nail clippings while time allows. Proof of rabies vaccination is req
+ uired.\nFree Pup Cups\nTreat your furry friend to a delicious pup cup\, sp
+ onsored by Shell Yeah\, Beaches! Available while supplies last.\nDog Costu
+ me Contest\nDress your pup in their best Halloween costume and enter for a
+  chance to win fun prizes!\nMystical Paw Reader\nCurious about what your p
+ up is really thinking? Visit our mystical paw reader to learn what the sta
+ rs have to say about your furry friend.\nArchie's Dawgs\nGrab a delicious 
+ bite from Archie's Dawgs\, which will be available for purchase during the
+  event.\nThe Puppy Plunge\nAnd best of all\, the pups get to take over THE
+  COMMONS pool for a special doggy swim! Let them make a splash and enjoy s
+ ome off-leash fun in the pool.\nPlease Note : THE COMMONS pool will be clo
+ sed\, cleaned\, and reopened the following Monday after the event. THE LAG
+ OON will remain open during this time for residents to enjoy.\nBring your 
+ best furry friend\, dress them in their best Halloween costume\, and join 
+ us for a Howl-o-ween celebration you won't want to miss!\nRSVP : https://s
+ ecure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ0ODkwMjk
+ =
+END:VEVENT
+BEGIN:VEVENT
+UID:c5aefda3f934811788bc4ef48d940996dd4365c9@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Oktoberfest @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261010T120000
+DTEND;TZID=America/Chicago:20261010T150000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Prost! Join us for an afternoon of German-inspired fun at our O
+ ktoberfest celebration on Saturday\, October 10\, from 12 PM to 3 PM at TH
+ E BRIDGE!\nGrab your friends and family and get ready for an afternoon fil
+ led with live music from a DJ\, delicious food\, yard games\, and plenty o
+ f Oktoberfest spirit! Enjoy German food tastings\, explore our inflatable 
+ pub\, and sample a variety of German beers with beer flights available for
+  purchase. A beer tap truck will also be on-site serving up refreshing bre
+ ws.\nThink you’ve got what it takes? Put your strength and stamina to th
+ e test in our Beer Stein Holding Competition!\nWhether you’re coming for
+  the food\, the games\, the music\, or simply to raise a stein with your n
+ eighbors\, there’s something for everyone to enjoy. Don your best lederh
+ osen or dirndl and come celebrate Oktoberfest with us!\nRSVP : https://sec
+ ure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ1MTgzOTA=
+END:VEVENT
+BEGIN:VEVENT
+UID:c2184e8564f07527410d330e34b70f05db364172@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Wild West Fest @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261017T120000
+DTEND;TZID=America/Chicago:20261017T150000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready to kick up your boots and celebrate the season at Wil
+ d West Fest on Saturday\, October 17\, from 12 to 3 PM at THE COMMONS! Joi
+ n us for an afternoon packed with Western-themed fun for the whole family.
+ \nRound up your cowboys and cowgirls and enjoy inflatables\, Western games
+ \, a hayride\, and a petting zoo featuring plenty of adorable animal frien
+ ds. Stop by our pumpkin patch to pick out your very own pumpkin\, availabl
+ e on a first come\, first served basis while supplies last. You can also g
+ et creative at our leather stamping station and make a one-of-a-kind keeps
+ ake!\nEnjoy the sounds of a live band while grabbing a bite from our food 
+ trucks\, and soak up all the fall festivities with your neighbors. So grab
+  your boots\, bring the family\, and mosey on over for a rootin’ tootin
+ ’ good time at Wild West Fest!\nRSVP : https://secure.rec1.com/TX/windso
+ ng-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ1MTgzMzM=
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd16a9edc50436c6918f91111199e914f22a9a9@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Veterans Day Brunch @ THE COMMONS
+DTSTART;TZID=America/Chicago:20261111T093000
+DTEND;TZID=America/Chicago:20261111T103000
+LOCATION:THE COMMONS
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:5cdb244f0b8a64ad40c274e8029af08ec6153ba9@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Ping Pong Tournament @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261114T090000
+DTEND;TZID=America/Chicago:20261114T130000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:7cede3371dc9895fddc4c39b2becce60ca789145@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Cornhole Harvest Tournament @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261121T110000
+DTEND;TZID=America/Chicago:20261121T130000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:e8b120135ff3ca4cf8f88e6cca11ad4490be3813@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:School of Rock | Intro to Instruments @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261124T103000
+DTEND;TZID=America/Chicago:20261124T123000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:e25e98bcd8d0fedb57490253165275969a9de190@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Menorah Lighting Ceremony @ THE COMMONS
+DTSTART;TZID=America/Chicago:20261204T170000
+DTEND;TZID=America/Chicago:20261204T180000
+LOCATION:THE COMMONS
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:98d0d395af3dacefb7ad001cdbf55d6f6dce45c9@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Tree Lighting Ceremony @ THE COMMONS
+DTSTART;TZID=America/Chicago:20261205T180000
+DTEND;TZID=America/Chicago:20261205T190000
+LOCATION:THE COMMONS
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:7f85702752eb4d32908755b67bcb60764f547e05@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Winter Wonderland @ THE COMMONS
+DTSTART;TZID=America/Chicago:20261219T120000
+DTEND;TZID=America/Chicago:20261219T150000
+LOCATION:THE COMMONS
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:12627b4e92e4f1a834ee21df27280449be2d1566@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260219T180000
+DTEND;TZID=America/Chicago:20260219T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:c5bcc43ee65e6c637111dfab1080f648e80d857b@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Fishing Derby @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260316T123000
+DTEND;TZID=America/Chicago:20260316T133000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:As part of our Spring Break Activities\, join us for a Spring F
+ ishing Derby from 12:30 PM to 1:30 PM at THE BRIDGE on Monday\, March 16 .
+  Kids can cast a line and compete in three fun categories: Longest Fish Ca
+ ught \, Most Fish Caught \, and Craziest Catch . Winners will receive fish
+ ing‑themed prizes\, and small giveaways will be available while supplies
+  last. Participants must bring their own fishing rod and bait to join in t
+ he fun.\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?f
+ ilter=c2VhcmNoPTQxOTk2MjU=
+END:VEVENT
+BEGIN:VEVENT
+UID:48581c834e54cae728ef80bf1bb2e9dea337871b@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Joyful Mess Art Camp @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260316T103000
+DTEND;TZID=America/Chicago:20260316T120000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:As part of our Spring Break Activities\, creativity takes cente
+ r stage from 10:30 AM to 12:00 PM at THE BRIDGE. Joyful Mess Art Camp invi
+ tes kids to explore art through hands‑on projects that encourage imagina
+ tion\, self‑expression\, and creativity—where making a mess is part of
+  the fun. Once participants finish their craft\, they are welcome to head 
+ out at their convenience!\nRSVP : https://www.hisawyer.com/a-joyful-mess-a
+ rt-studio/schedules/activity-set/1798524?day=2026-03-16&view=cal&source=se
+ mesters
+END:VEVENT
+BEGIN:VEVENT
+UID:f4356404b2565fb47eb92345e5380a24213fa066@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:St. Patrick's Day Scavenger Hunt @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260317T103000
+DTEND;TZID=America/Chicago:20260317T120000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:As part of our Spring Break Activities\, celebrate the holiday 
+ with adventure on Tuesday\, March 17\, from 10:30 AM to 12:00 PM at THE BR
+ IDGE! Our St. Patrick’s Day Scavenger Hunt will have kids searching for 
+ clues\, completing themed challenges\, and enjoying festive fun throughout
+  the morning!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/cat
+ alog?filter=c2VhcmNoPTQxNDE0MzI=
+END:VEVENT
+BEGIN:VEVENT
+UID:418e42e58a64e219afbf7fc671247c500533d2cf@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Cereal Social @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260318T100000
+DTEND;TZID=America/Chicago:20260318T110000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:As part of our Spring Break Activities\, kick off the day with 
+ a casual and fun Cereal Social on Wednesday\, March 18\, from 10:00 AM to 
+ 11:00 AM at THE BRIDGE! Kids can mix and match their favorite cereals whil
+ e enjoying a relaxed social hour with friends!\nRSVP : https://secure.rec1
+ .com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQxNDE0NDU=
+END:VEVENT
+BEGIN:VEVENT
+UID:3125b24d9e411233813305eaec3558196731f47b@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Petting Zoo @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260318T110000
+DTEND;TZID=America/Chicago:20260318T123000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:As part of our Spring Break Activities\, join us on Wednesday\,
+  March 18\, from 11:00 AM to 12:30 PM on THE BRIDGE Event Lawn for a Petti
+ ng Zoo experience. This interactive event gives kids and families the chan
+ ce to meet friendly animals up close while learning and enjoying time outd
+ oors!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?fil
+ ter=c2VhcmNoPTQxNDE0NTA=
+END:VEVENT
+BEGIN:VEVENT
+UID:8b72b598354134e371a7d705a12096d2b8291d98@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Kids Cooking Class @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260319T103000
+DTEND;TZID=America/Chicago:20260319T123000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:As part of our Spring Break Activities\, young chefs are invite
+ d to get cooking from 10:30 AM to 12:30 PM at THE BRIDGE on Thursday\, Mar
+ ch 19 . Hosted by CookLearnGrow \, this hands‑on class helps kids learn 
+ basic kitchen skills\, follow recipes\, and build confidence while creatin
+ g something delicious.\nRSVP : https://fareharbor.com/embeds/book/cooklear
+ ngrow/items/695974/calendar/2026/03/?full-items=yes
+END:VEVENT
+BEGIN:VEVENT
+UID:42b0e6171463b237e67d505a87af1c720ec2e717@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:From Hive to Honey @ THE BRIDGE Fireplace
+DTSTART;TZID=America/Chicago:20260319T130000
+DTEND;TZID=America/Chicago:20260319T140000
+LOCATION:THE BRIDGE Fireplace
+CATEGORIES:Lifestyle Events
+DESCRIPTION:As part of our Spring Break Activities\, d iscover the sweet jo
+ urney of honey during 'From Hive to Honey' on Thursday\, March 19 \, from 
+ 1:00 PM to 2:00 PM at THE BRIDGE Fireplace. This interactive class explore
+ s bees\, honey extraction\, and the important role pollinators play in our
+  environment. Be sure to RSVP under the "Upcoming Events" section.\nRSVP :
+  https://myhive.alveole.buzz/windsong-ranch-honey-huts
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed308cd67523eb3fec6242cb072a90c256711b6@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:March Madness Teen Day @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260320T103000
+DTEND;TZID=America/Chicago:20260320T123000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Wrap up Spring Break with a teen‑only hangout on Friday\, Mar
+ ch 20\, from 10:30 AM to 12:30 PM at THE BRIDGE. Teens can enjoy watching 
+ college basketball games on TV\, playing yard games\, participating in a H
+ ot Shot basketball challenge\, playing board games\, and visiting a food t
+ ruck for purchase! A fun and relaxed way to end the week with friends!\nRS
+ VP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2Vhc
+ mNoPTQxNDE1MDk=
+END:VEVENT
+BEGIN:VEVENT
+UID:af7502c5603d506ff9127688a4631bf6d5a27fd4@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260312T180000
+DTEND;TZID=America/Chicago:20260312T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:501dd2319d15f151f1c9812463543b0d160bab2e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260430T180000
+DTEND;TZID=America/Chicago:20260430T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:7686700ea52989c68232b73ca73fbc3dd3e9f074@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260521T180000
+DTEND;TZID=America/Chicago:20260521T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:bd36e62f0a27df7f1204e204340c24595c8e62d4@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260618T173000
+DTEND;TZID=America/Chicago:20260618T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:8b5ac28d383b906722aaf97a1fde012143ec35da@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260723T173000
+DTEND;TZID=America/Chicago:20260723T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:7ed8373b54bc991a813604726d2ab2a03978d922@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260827T173000
+DTEND;TZID=America/Chicago:20260827T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:4a9602bbef561f52946970ef0d0272eb0b2eb038@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260923T173000
+DTEND;TZID=America/Chicago:20260923T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:0dcde90d5bc61c60a126df9e4c4e8167a45a38b3@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261029T173000
+DTEND;TZID=America/Chicago:20261029T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:e1891913ccc21d65f1a619d102de9028908fc693@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261119T173000
+DTEND;TZID=America/Chicago:20261119T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:ae709f43e11a3f4f4c34ee01dd1abf678cf5120d@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahjong Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261217T173000
+DTEND;TZID=America/Chicago:20261217T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:A casual social group focused on playing the tile-based game of
+  Mahjong\, providing a space for beginners to learn and experienced player
+ s to socialize and compete.\nInterested in joining? For more information\,
+  contact Emily Grigely at wsrmahjongclub@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:2424061f0d4757826caca2c046985cde7d515373@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Yoga For Better You @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260405T090000
+DTEND;TZID=America/Chicago:20260405T100000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SU;UNTIL=20261227T235959Z
+LOCATION:THE BRIDGE
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Windsong Residents! Sign up your kids for Smart & Strong Kids Y
+ oga by Yoga For Better You (YFBY) — a fun and enriching yoga program cre
+ ated just for them.\nPerfect for parents looking to help their children im
+ prove focus\, confidence\, emotional balance\, breathing awareness and hea
+ lthy habits in today’s screen-heavy world.\nThrough fun yoga poses\, bre
+ athing techniques\, mindfulness\, and creative storytelling\, children dev
+ elop better concentration\, stronger memory for studies\, life values\, se
+ lf-awareness\, & resilience while building focus\, calmness\, and confiden
+ ce.\nThese sessions also include simple breathing practices to improve lun
+ g capacity & support kids who experience seasonal allergies\, while helpin
+ g them build better breathing habits and inner strength to navigate school
+ \, friendships\, and everyday challenges with confidence.\nContact Yoga Al
+ liance Certified Kids Yoga Instructor\, Rashmi Venkat\, at yogaforbetteryo
+ u@gmail.com for more details.
+END:VEVENT
+BEGIN:VEVENT
+UID:35fb51d7a681d135a1879ddd2253a86130dd1aee@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Craft & Hobby Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260329T150000
+DTEND;TZID=America/Chicago:20260329T163000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:This group was created to allow all levels of crafters and thos
+ e with hobbies to share ideas\, inspire and encourage one another by build
+ ing relationships through something we enjoy!\nInterested in joining? For 
+ more information\, contact Cheryl Zapata at czapata@earthlink.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:a3f8456dc8b60f2b9553f7a8c9abc67bb656d2d1@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Golf Cart Health Check with SoCar @ THE LAGOON
+DTSTART;TZID=America/Chicago:20260328T110000
+DTEND;TZID=America/Chicago:20260328T130000
+LOCATION:THE LAGOON
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Keep your golf cart running smoothly with a FREE Golf Cart Heal
+ th Check on Saturday\, March 28\, from 11 AM to 1 PM at THE LAGOON\, broug
+ ht to you by SoCar! Their expert service team will be on‑site to provide
+  a complimentary inspection and help ensure your cart is safe\, reliable\,
+  and ready for the season.\nDuring the check‑up\, technicians will revie
+ w key areas including battery performance\, tire health\, safety features\
+ , and steering/suspension components—giving you peace of mind without th
+ e pressure of sales or service commitments. It’s a quick and convenient 
+ way to care for one of your favorite modes of transportation.\nThis family
+ ‑owned team is dedicated to helping residents enjoy the lifestyle they l
+ ove with quality\, trustworthy service. As a special bonus\, Windsong resi
+ dents will receive $500 off any new golf cart purchase through April 30\, 
+ 2026. Stop by\, roll up\, and let the experts take care of the rest!
+END:VEVENT
+BEGIN:VEVENT
+UID:96b854060ff64bb09deba8823a58e03983469a87@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Health & Wellness Expo @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260424T110000
+DTEND;TZID=America/Chicago:20260424T130000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us for our community Health & Wellness Expo on Friday\, Ap
+ ril 24\, from 11 AM to 1 PM at THE BRIDGE—a relaxed and informative even
+ t focused on supporting healthy living for residents of all ages! This exp
+ o is perfect for anyone interested in learning more about wellness\, nutri
+ tion\, and simple ways to build healthier habits into everyday life.\nThro
+ ughout the event\, residents can explore at their own pace\, participate i
+ n optional activity sessions\, and engage with helpful resources designed 
+ to encourage confidence and well‑being. Whether you’re looking to gain
+  new insights or simply enjoy a wellness‑focused morning\, there’s som
+ ething for everyone.\nResidents can look forward to:\nInformative discussi
+ ons on nutrition and general wellness\nOptional workout and movement sessi
+ ons\nInteractive demonstrations from health professionals\nComplimentary r
+ efreshments and healthy snacks (while supplies last)\nWe are proud to part
+ ner with Texas Health\, who will be on-site providing expert guidance\, de
+ monstrations\, and valuable information throughout the event.\nRSVP : http
+ s://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQyMT
+ k2ODc=
+END:VEVENT
+BEGIN:VEVENT
+UID:c7e03d9848800e8b3bb9f4ed36e2059ced3555e8@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mixology Class @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260425T180000
+DTEND;TZID=America/Chicago:20260425T190000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Shake things up and join us for a Mixology Class hosted by The 
+ Abstract Mixologist\, Caroline Korshak\, on Saturday\, April 25\, from 6 t
+ o 7:30 PM at THE BRIDGE.! This session will explore the history of whiskey
+  cocktails\, with guests learning to craft four featured drinks while enjo
+ ying a fun\, relaxed evening with neighbors.\nThe cost is $15 per person\,
+  with registration available through Civic Rec. Registration closes at 10:
+ 00 AM the day before the event\, and space is limited\, so be sure to sign
+  up early!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalo
+ g?filter=c2VhcmNoPTQyNjMzMTU=
+END:VEVENT
+BEGIN:VEVENT
+UID:3216790edc205e1cf362d09b46f31afdd85889b4@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mix\, Mingle & Bingo @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260515T180000
+DTEND;TZID=America/Chicago:20260515T200000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us for a relaxed and social bingo night designed especiall
+ y for adults and seniors on Friday\, May 15\, from 6 to 8 PM at THE BRIDGE
+ . This evening offers the perfect opportunity to connect with neighbors\, 
+ enjoy great company\, and unwind—for just $7 per person!\nAdult beverage
+ s and light snacks will be provided while supplies last\, and guests are w
+ elcome to bring their own food and drinks to keep the party going. Partici
+ pants will enjoy several rounds of classic bingo\, with fun prizes up for 
+ grabs throughout the night.\nRegistration is closes the day before the eve
+ nt at 10:00 AM\, and space is limited. This is a ticketed event\, and a do
+ wnloadable ticket will be provided after checkout. Please bring your ticke
+ t—either on your mobile device or as a printed copy—as it will be scan
+ ned at the door for entry. Doors will open at 5:45 PM. We hope to see you 
+ there!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?fi
+ lter=c2VhcmNoPTQyNTkzODg=
+END:VEVENT
+BEGIN:VEVENT
+UID:1dec6d6bb433ea79384221664423aa3497d826b7@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Newborn Basics Class @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260512T103000
+DTEND;TZID=America/Chicago:20260512T113000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Expecting a baby or adjusting to life with a newborn? Cook Chil
+ dren’s is offering free Newborn Basics classes led by board‑certified 
+ pediatricians to help parents feel confident and prepared.\nThese informat
+ ive sessions cover:\nPreparing for the delivery\nBasic newborn care\nFeedi
+ ng techniques\nSafe sleep tips\nCircumcision care\nUmbilical cord care\nVa
+ ccination information\nGeneral safety information\nClasses will be held fr
+ om 10:30 to 11:30 AM at THE BRIDGE on Tuesday\, May 12 with Dr. Alapati an
+ d Tuesday\, May 19 with Dr. Kopalli—a great opportunity to ask questions
+  and gain expert guidance as you begin your parenting journey.\nRegistrati
+ on is required through Civic Rec.\nRSVP (5/12) : https://secure.rec1.com/T
+ X/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQyNzY5MzY=
+END:VEVENT
+BEGIN:VEVENT
+UID:b32b41e042ac679f85a0d31d5b6c9c9f06da1b9e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Free Birds @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260528T180000
+DTEND;TZID=America/Chicago:20260528T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Calling All Free Birds!\nSave the date for the “Gnarly” Fre
+ e Birds 80’s Party on Thursday\, May 28\, from 6 to 9 PM at THE BRIDGE! 
+ Break out your leg warmers and denim jackets for a totally tubular night o
+ f fun.\nCome dressed in your favorite 80’s outfit\, test your knowledge 
+ during 80’s Music Bingo (with prizes for winners)\, and show off your sk
+ ills with a Rubik’s Cube challenge. This event will be a potluck\, and a
+  sign‑up sheet will be sent out in advance so we don’t all bring the s
+ ame dish.\nInterested in joining Free Birds?\nFree Birds is a social club 
+ for couples and singles in WSR who are empty nesters\, or almost empty nes
+ ters\, looking to connect with like‑minded neighbors. The group typicall
+ y meets monthly for themed events that include food\, drinks\, games\, and
+  social time\, both onsite in WSR and at offsite locations.\nFor more info
+ rmation\, contact WSR.freebirds@gmail.com or visit the group on Facebook a
+ t Windsong Free Birds .
+END:VEVENT
+BEGIN:VEVENT
+UID:e44e65de125744c21e9b6641bde58d5b182e8e60@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mat Pilates Class @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260508T100000
+DTEND;TZID=America/Chicago:20260508T110000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Kick off your weekend with an energizing Mat Pilates class on F
+ riday\, May 8\, from 10 to 11 AM at THE BRIDGE\, hosted by Club Pilates Wi
+ ndsong! This complimentary\, full‑body workout focuses on strengthening\
+ , lengthening\, and restoring your body—leaving you feeling refreshed\, 
+ balanced\, and ready to enjoy the weekend ahead.\nThe class is designed wi
+ th an adult audience in mind and is perfect for all experience levels. Fol
+ lowing the workout\, the Club Pilates team will remain on site until 1 PM 
+ to answer questions and help interested participants book a free reformer 
+ session.\nPlease remember to bring your own mat\, water for hydration\, an
+ d a towel (optional). Registration closes the day before the event at 10:0
+ 0 AM. We hope you’ll join us for this fun and revitalizing fitness exper
+ ience!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?fi
+ lter=c2VhcmNoPTQyODY5ODA=
+END:VEVENT
+BEGIN:VEVENT
+UID:b6a951509a148dff51e83864f0c62907bcd23e87@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:CPR & First Aid Class @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260516T100000
+DTEND;TZID=America/Chicago:20260516T110000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us on Saturday\, May 16 at 10 AM at THE BRIDGE for a CPR &
+  First Aid class\, hosted by Cardinal CPR! This interactive\, hands‑on c
+ lass is a great way to learn practical\, life‑saving skills that can hel
+ p you feel more confident and prepared in everyday situations. Whether you
+ ’re looking to refresh your knowledge or learn something new\, this clas
+ s is a smart and empowering way to spend your morning.\nThe cost to attend
+  is $40 per person. For those who would like to receive a two‑year certi
+ fication through the Health & Safety Institute\, an additional $15 will ap
+ ply.\nTo register and submit payment\, please reach out to Jonathan Tapper
+  at cardinalcpr@outlook.com . We hope to see you there!
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f6f31a64e58c59622d6ac19f7b7031fb026206@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Republican Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260526T180000
+DTEND;TZID=America/Chicago:20260526T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:The Republican Club is a community‑based group that brings to
+ gether members with an interest in civic engagement\, government\, and pub
+ lic affairs. The club provides opportunities for conversation and connecti
+ on among members .\nInterested in joining? For more information\, contact 
+ Ron Frimere at frimerer@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:31065b13346612c83dc0d6fe4e0d309b0c27ac94@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Republican Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260623T180000
+DTEND;TZID=America/Chicago:20260623T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:The Republican Club is a community‑based group that brings to
+ gether members with an interest in civic engagement\, government\, and pub
+ lic affairs. The club provides opportunities for conversation and connecti
+ on among members .\nInterested in joining? For more information\, contact 
+ Ron Frimere at frimerer@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:b185a2fc5111d038742b09b81febab238200f78d@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Republican Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260728T180000
+DTEND;TZID=America/Chicago:20260728T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:The Republican Club is a community‑based group that brings to
+ gether members with an interest in civic engagement\, government\, and pub
+ lic affairs. The club provides opportunities for conversation and connecti
+ on among members .\nInterested in joining? For more information\, contact 
+ Ron Frimere at frimerer@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:7928083a42b6594ebc6e17bb38c0069879e0fb36@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Republican Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260811T180000
+DTEND;TZID=America/Chicago:20260811T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:The Republican Club is a community‑based group that brings to
+ gether members with an interest in civic engagement\, government\, and pub
+ lic affairs. The club provides opportunities for conversation and connecti
+ on among members .\nInterested in joining? For more information\, contact 
+ Ron Frimere at frimerer@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:968066e4a8575572a2f135bf6f552d2dcada8400@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Republican Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260922T180000
+DTEND;TZID=America/Chicago:20260922T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:The Republican Club is a community‑based group that brings to
+ gether members with an interest in civic engagement\, government\, and pub
+ lic affairs. The club provides opportunities for conversation and connecti
+ on among members .\nInterested in joining? For more information\, contact 
+ Ron Frimere at frimerer@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:56ea6c729617461975b138ad2bfe19248bd08254@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Republican Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261027T180000
+DTEND;TZID=America/Chicago:20261027T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:The Republican Club is a community‑based group that brings to
+ gether members with an interest in civic engagement\, government\, and pub
+ lic affairs. The club provides opportunities for conversation and connecti
+ on among members .\nInterested in joining? For more information\, contact 
+ Ron Frimere at frimerer@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:904d09b4a76a9f6f5b84f45cd93b5d6b5eda513d@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Republican Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261124T180000
+DTEND;TZID=America/Chicago:20261124T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:The Republican Club is a community‑based group that brings to
+ gether members with an interest in civic engagement\, government\, and pub
+ lic affairs. The club provides opportunities for conversation and connecti
+ on among members .\nInterested in joining? For more information\, contact 
+ Ron Frimere at frimerer@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:69fc507c16dead8de10d76a8c2e486dba31ed5a1@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Republican Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261222T180000
+DTEND;TZID=America/Chicago:20261222T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:The Republican Club is a community‑based group that brings to
+ gether members with an interest in civic engagement\, government\, and pub
+ lic affairs. The club provides opportunities for conversation and connecti
+ on among members .\nInterested in joining? For more information\, contact 
+ Ron Frimere at frimerer@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:e4df17626f2c888f4be41515651bd889042952c9@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Card Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260603T190000
+DTEND;TZID=America/Chicago:20260603T200000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us for Windsong’s Card Club—we meet every first Wednes
+ day of each month at 7 PM at THE BRIDGE! Whether you're a seasoned card pl
+ ayer or just looking for a fun and relaxed evening\, this is the perfect m
+ id-week escape.\nOur next meeting will be on Wednesday\, June 3 . Decks of
+  cards will be provided\, and you’re welcome to bring your favorite beve
+ rages. Water will be available\, and guests are invited to bring snacks to
+  share.\nFor more details\, please contact Karen O’Brien at karenoo@iclo
+ ud.com . We look forward to an evening of games\, laughter\, and great com
+ pany!
+END:VEVENT
+BEGIN:VEVENT
+UID:0c09458757828824b6fbd1fc7fa8644796a626a4@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Water Aerobics with Charlene @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260623T100000
+DTEND;TZID=America/Chicago:20260623T110000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20260929T235959Z
+LOCATION:THE COMMONS Pools
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Join instructor Charlene Boese for a fun and effective summer w
+ orkout with water aerobics classes\, featuring a combination of high and l
+ ow-impact exercises designed to strengthen your core and improve overall m
+ uscle tone.\nAdditionally\, explore the benefits of Pilates\, a unique for
+ m of exercise that targets specific muscle groups using only your body wei
+ ght—no equipment or machines required. Pilates focuses on enhancing core
+  strength\, balance\, and flexibility\, offering a great complement to you
+ r fitness routine with minimal risk of injury.\nInterested in joining? For
+  more information\, contact Charlene Boese at bodybyboese67@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:6d4c8d0c27d44a2a3e57012b2fd3c5a448f7473e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Water Aerobics with Charlene @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260625T100000
+DTEND;TZID=America/Chicago:20260625T110000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20260924T235959Z
+LOCATION:THE COMMONS Pools
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Join instructor Charlene Boese for a fun and effective summer w
+ orkout with water aerobics classes\, featuring a combination of high and l
+ ow-impact exercises designed to strengthen your core and improve overall m
+ uscle tone.\nAdditionally\, explore the benefits of Pilates\, a unique for
+ m of exercise that targets specific muscle groups using only your body wei
+ ght—no equipment or machines required. Pilates focuses on enhancing core
+  strength\, balance\, and flexibility\, offering a great complement to you
+ r fitness routine with minimal risk of injury.\nInterested in joining? For
+  more information\, contact Charlene Boese at bodybyboese67@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:a93ebb76ef716acc124eef1fdb81db3d0cbbffb1@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Water Aerobics with Charlene @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260620T103000
+DTEND;TZID=America/Chicago:20260620T113000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20260927T235959Z
+LOCATION:THE COMMONS Pools
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:Join instructor Charlene Boese for a fun and effective summer w
+ orkout with water aerobics classes\, featuring a combination of high and l
+ ow-impact exercises designed to strengthen your core and improve overall m
+ uscle tone.\nAdditionally\, explore the benefits of Pilates\, a unique for
+ m of exercise that targets specific muscle groups using only your body wei
+ ght—no equipment or machines required. Pilates focuses on enhancing core
+  strength\, balance\, and flexibility\, offering a great complement to you
+ r fitness routine with minimal risk of injury.\nInterested in joining? For
+  more information\, contact Charlene Boese at bodybyboese67@gmail.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:f5cde81e11fa437ee1b6ce2d1840a76851023177@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:NTX Summer League Swim Team @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260504T070000
+DTEND;TZID=America/Chicago:20260504T090000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;UNTIL=20260831T235959Z
+LOCATION:THE COMMONS Pools
+CATEGORIES:Recreation & Fitness
+END:VEVENT
+BEGIN:VEVENT
+UID:380f3672eb55b39acfc60405f182dde9cc1b3654@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:NTX Summer League Swim Team @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260506T070000
+DTEND;TZID=America/Chicago:20260506T090000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20260826T235959Z
+LOCATION:THE COMMONS Pools
+CATEGORIES:Recreation & Fitness
+END:VEVENT
+BEGIN:VEVENT
+UID:30a75e12dbacfbc90aa108b34c8ec91313949283@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:NTX Summer League Swim Team @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260508T070000
+DTEND;TZID=America/Chicago:20260508T090000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20260828T235959Z
+LOCATION:THE COMMONS Pools
+CATEGORIES:Recreation & Fitness
+END:VEVENT
+BEGIN:VEVENT
+UID:33517814275ead16801313bfeb3cd44ba5363af3@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:British Swim School @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260505T160000
+DTEND;TZID=America/Chicago:20260505T200000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20260922T235959Z
+LOCATION:THE COMMONS Pools
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:British Swim School is returning to Windsong Ranch for the swim
+  season! Convenient lessons are offered at THE COMMONS pool on Tuesday and
+  Thursday evenings\, Wednesday mornings\, and Saturdays.\nWith a survival-
+ first approach\, British Swim School helps swimmers of all ages build wate
+ r safety skills\, confidence\, and strong swimming techniques. Classes are
+  available for infants\, children\, and adults\, with small class sizes an
+ d expert-trained instructors providing a fun and supportive learning envir
+ onment. Programs range from beginner water acclimation to advanced stroke 
+ development.\nFor more information or to register\, call (940) 230-2578 . 
+ We look forward to another season of safety\, confidence\, and fun in the 
+ water!
+END:VEVENT
+BEGIN:VEVENT
+UID:1326e582b310431f23bdad111d0862e36a27a52c@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:British Swim School @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260507T160000
+DTEND;TZID=America/Chicago:20260507T200000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20260924T235959Z
+LOCATION:THE COMMONS Pools
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:British Swim School is returning to Windsong Ranch for the swim
+  season! Convenient lessons are offered at THE COMMONS pool on Tuesday and
+  Thursday evenings\, Wednesday mornings\, and Saturdays.\nWith a survival-
+ first approach\, British Swim School helps swimmers of all ages build wate
+ r safety skills\, confidence\, and strong swimming techniques. Classes are
+  available for infants\, children\, and adults\, with small class sizes an
+ d expert-trained instructors providing a fun and supportive learning envir
+ onment. Programs range from beginner water acclimation to advanced stroke 
+ development.\nFor more information or to register\, call (940) 230-2578 . 
+ We look forward to another season of safety\, confidence\, and fun in the 
+ water!
+END:VEVENT
+BEGIN:VEVENT
+UID:6dbe3011abb384ccad3a82f3a0f0f9bf1a5979e5@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:British Swim School @ THE COMMONS Pools
+DTSTART;TZID=America/Chicago:20260509T073000
+DTEND;TZID=America/Chicago:20260509T103000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20260926T235959Z
+LOCATION:THE COMMONS Pools
+CATEGORIES:Recreation & Fitness
+DESCRIPTION:British Swim School is returning to Windsong Ranch for the swim
+  season! Convenient lessons are offered at THE COMMONS pool on Tuesday and
+  Thursday evenings\, Wednesday mornings\, and Saturdays.\nWith a survival-
+ first approach\, British Swim School helps swimmers of all ages build wate
+ r safety skills\, confidence\, and strong swimming techniques. Classes are
+  available for infants\, children\, and adults\, with small class sizes an
+ d expert-trained instructors providing a fun and supportive learning envir
+ onment. Programs range from beginner water acclimation to advanced stroke 
+ development.\nFor more information or to register\, call (940) 230-2578 . 
+ We look forward to another season of safety\, confidence\, and fun in the 
+ water!
+END:VEVENT
+BEGIN:VEVENT
+UID:20becbb7ead4427e1fac072714f621efcfe32445@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Card Club @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260701T190000
+DTEND;TZID=America/Chicago:20260701T210000
+RRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=1;BYDAY=WE;UNTIL=20261230T235959Z
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Looking for a fun way to connect with neighbors and enjoy an ev
+ ening of friendly competition? Join the Windsong Ranch Card Club \, where 
+ residents gather regularly to play card games\, socialize\, and build comm
+ unity. Whether you're an experienced card player or just learning the rope
+ s\, all skill levels are welcome.\nBring your favorite beverage\, enjoy gr
+ eat conversation\, and spend time with fellow residents in a relaxed and w
+ elcoming atmosphere. Decks of cards are provided \, and guests are encoura
+ ged to bring a snack to share. Come for the games\, stay for the camarader
+ ie\, and make new friends along the way!\nInterested in joining? For more 
+ information\, please contact Karen O’Brien at karenoo@icloud.com .
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8b5ba4cbb66fb765adf6ae79d3e1b560e7eda0@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Free Birds @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260730T180000
+DTEND;TZID=America/Chicago:20260730T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Free Birds is a social club for couples and singles living in W
+ indsong Ranch who are empty nesters or almost empty nesters who want to ha
+ ng out with individuals who are like-minded\, pursue shared interests\, an
+ d are looking to build lasting relationships. The group typically meets mo
+ nthly \, on a Thursday night \, for a variety of themed events \, which in
+ clude food\, drinks\, and games. Most events are held within the Windsong 
+ Ranch Community\, with a few events held outside the community at nearby l
+ ocations.\nInterested in joining? For more information\, contact the Free 
+ birds at wsr.freebirds@gmail.com or visit their Facebook page at Windsong 
+ Free birds .
+END:VEVENT
+BEGIN:VEVENT
+UID:1eb0d6559f1c281be58ba7b2d6fe04feceacebd9@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Free Birds @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260825T180000
+DTEND;TZID=America/Chicago:20260825T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Free Birds is a social club for couples and singles living in W
+ indsong Ranch who are empty nesters or almost empty nesters who want to ha
+ ng out with individuals who are like-minded\, pursue shared interests\, an
+ d are looking to build lasting relationships. The group typically meets mo
+ nthly \, on a Thursday night \, for a variety of themed events \, which in
+ clude food\, drinks\, and games. Most events are held within the Windsong 
+ Ranch Community\, with a few events held outside the community at nearby l
+ ocations.\nInterested in joining? For more information\, contact the Free 
+ birds at wsr.freebirds@gmail.com or visit their Facebook page at Windsong 
+ Free birds .
+END:VEVENT
+BEGIN:VEVENT
+UID:7a4e64206d96b6ae4b24b6f6721f63c802368bb8@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Free Birds @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260924T180000
+DTEND;TZID=America/Chicago:20260924T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Free Birds is a social club for couples and singles living in W
+ indsong Ranch who are empty nesters or almost empty nesters who want to ha
+ ng out with individuals who are like-minded\, pursue shared interests\, an
+ d are looking to build lasting relationships. The group typically meets mo
+ nthly \, on a Thursday night \, for a variety of themed events \, which in
+ clude food\, drinks\, and games. Most events are held within the Windsong 
+ Ranch Community\, with a few events held outside the community at nearby l
+ ocations.\nInterested in joining? For more information\, contact the Free 
+ birds at wsr.freebirds@gmail.com or visit their Facebook page at Windsong 
+ Free birds .
+END:VEVENT
+BEGIN:VEVENT
+UID:f39341f9333bcdc2db662b9e3e4b5c0af70b4f2d@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Free Birds @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261020T180000
+DTEND;TZID=America/Chicago:20261020T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Free Birds is a social club for couples and singles living in W
+ indsong Ranch who are empty nesters or almost empty nesters who want to ha
+ ng out with individuals who are like-minded\, pursue shared interests\, an
+ d are looking to build lasting relationships. The group typically meets mo
+ nthly \, on a Thursday night \, for a variety of themed events \, which in
+ clude food\, drinks\, and games. Most events are held within the Windsong 
+ Ranch Community\, with a few events held outside the community at nearby l
+ ocations.\nInterested in joining? For more information\, contact the Free 
+ birds at wsr.freebirds@gmail.com or visit their Facebook page at Windsong 
+ Free birds .
+END:VEVENT
+BEGIN:VEVENT
+UID:28760c3f327696c5720edfc6323d6cfe967de304@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Free Birds @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261117T180000
+DTEND;TZID=America/Chicago:20261117T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Free Birds is a social club for couples and singles living in W
+ indsong Ranch who are empty nesters or almost empty nesters who want to ha
+ ng out with individuals who are like-minded\, pursue shared interests\, an
+ d are looking to build lasting relationships. The group typically meets mo
+ nthly \, on a Thursday night \, for a variety of themed events \, which in
+ clude food\, drinks\, and games. Most events are held within the Windsong 
+ Ranch Community\, with a few events held outside the community at nearby l
+ ocations.\nInterested in joining? For more information\, contact the Free 
+ birds at wsr.freebirds@gmail.com or visit their Facebook page at Windsong 
+ Free birds .
+END:VEVENT
+BEGIN:VEVENT
+UID:09ed3ccfe59fadf9088d85108cdc71ac561ffaa3@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Free Birds @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261215T180000
+DTEND;TZID=America/Chicago:20261215T210000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Free Birds is a social club for couples and singles living in W
+ indsong Ranch who are empty nesters or almost empty nesters who want to ha
+ ng out with individuals who are like-minded\, pursue shared interests\, an
+ d are looking to build lasting relationships. The group typically meets mo
+ nthly \, on a Thursday night \, for a variety of themed events \, which in
+ clude food\, drinks\, and games. Most events are held within the Windsong 
+ Ranch Community\, with a few events held outside the community at nearby l
+ ocations.\nInterested in joining? For more information\, contact the Free 
+ birds at wsr.freebirds@gmail.com or visit their Facebook page at Windsong 
+ Free birds .
+END:VEVENT
+BEGIN:VEVENT
+UID:8a6004fc9c98fc6ec4ef35ac2e44d6d56c3054e3@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahj Squad @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260710T180000
+DTEND;TZID=America/Chicago:20260710T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:68d7a942a00885d0cb307aa0af7a93a806e016e7@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahj Squad @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260814T103000
+DTEND;TZID=America/Chicago:20260814T130000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:fc6d0582288794b6308db0c5daaaf41d72e4a0e2@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahj Squad @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260925T180000
+DTEND;TZID=America/Chicago:20260925T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:0a320f78b57c2fd461f6fd239f9f9fbcc3c337c6@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahj Squad @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261019T180000
+DTEND;TZID=America/Chicago:20261019T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:20eb457559ee8b1d73cf013616a8f3dc9da3b1c2@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahj Squad @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261102T180000
+DTEND;TZID=America/Chicago:20261102T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:0a2d694a3dfabe3b86501f38c82c77645de61032@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mahj Squad @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261207T180000
+DTEND;TZID=America/Chicago:20261207T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:446751c7b965013205e5cc2b56c0a11c138d27d2@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Rental
+DTSTART;TZID=America/Chicago:20260808T113000
+DTEND;TZID=America/Chicago:20260808T143000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:f39532f673431d25c61291253a341d5e2a293eeb@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Rental
+DTSTART;TZID=America/Chicago:20260815T113000
+DTEND;TZID=America/Chicago:20260815T143000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:71db41f6fa3867871d275100cec9dc3caabafbbd@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Rental
+DTSTART;TZID=America/Chicago:20260917T160000
+DTEND;TZID=America/Chicago:20260917T210000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:cba785f9901c7f058c62301268255c5737d14401@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Meeting
+DTSTART;TZID=America/Chicago:20260910T180000
+DTEND;TZID=America/Chicago:20260910T203000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:d4b66b246f42ef70df3038872f6a00fe87831c7e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Meeting
+DTSTART;TZID=America/Chicago:20260916T180000
+DTEND;TZID=America/Chicago:20260916T203000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ba92c0129bac433cb26ebde34f8d159fcb0dab@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Meeting
+DTSTART;TZID=America/Chicago:20260916T140000
+DTEND;TZID=America/Chicago:20260916T170000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:70ee9e1c8dc3abc9752838a0f08c8d8c2aad19b6@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Rental
+DTSTART;TZID=America/Chicago:20260926T130000
+DTEND;TZID=America/Chicago:20260926T193000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:8fca905efcbd865f3519fd4f1369923b69f7cce9@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Meeting
+DTSTART;TZID=America/Chicago:20261209T180000
+DTEND;TZID=America/Chicago:20261209T203000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:4423229fb20d6f0f5208f737fd2780a9df661ac1@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Meeting
+DTSTART;TZID=America/Chicago:20261112T180000
+DTEND;TZID=America/Chicago:20261112T203000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:1abdfe2ccf575aa020c66724641416d086d966b0@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE COMMONS: Rental
+DTSTART;TZID=America/Chicago:20260808T100000
+DTEND;TZID=America/Chicago:20260808T123000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:2a29e4c9cfb4af9719b4cfdabea1fdf7dcb88d54@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Lunch at THE LAGOON @ THE LAGOON
+DTSTART;TZID=America/Chicago:20260912T120000
+DTEND;TZID=America/Chicago:20260912T150000
+LOCATION:THE LAGOON
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Take a break and enjoy Lunch at THE LAGOON on Saturday\, Septem
+ ber 12\, from 12 PM to 3 PM at THE LAGOON. JK Delicieux and Jeremiah's Ita
+ lian Ice will be onsite with delicious lunch and dessert options available
+  for purchase. Whether you're spending the day by the water or simply stop
+ ping by for a bite to eat\, it's the perfect way to enjoy great food\, swe
+ et treats\, and time with neighbors!\nJoin us again on Saturday\, Septembe
+ r 19\, from 12 PM to 3 PM at THE LAGOON more delicious treats featuring Sm
+ oken SB BBQ and Jeremiah's Italian Ice!\nEnjoy delicious eats\, sweet trea
+ ts\, and good company while taking in one of the community's favorite gath
+ ering spots. We hope to see you there!
+END:VEVENT
+BEGIN:VEVENT
+UID:21299979edf1c1359e085f00b242159778aa8eab@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Lunch at THE LAGOON @ THE LAGOON
+DTSTART;TZID=America/Chicago:20260919T120000
+DTEND;TZID=America/Chicago:20260919T150000
+LOCATION:THE LAGOON
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Take a break and enjoy Lunch at THE LAGOON on Saturday\, Septem
+ ber 12\, from 12 PM to 3 PM at THE LAGOON. JK Delicieux and Jeremiah's Ita
+ lian Ice will be onsite with delicious lunch and dessert options available
+  for purchase. Whether you're spending the day by the water or simply stop
+ ping by for a bite to eat\, it's the perfect way to enjoy great food\, swe
+ et treats\, and time with neighbors!\nJoin us again on Saturday\, Septembe
+ r 19\, from 12 PM to 3 PM at THE LAGOON more delicious treats featuring Te
+ xas Mofo Tacos and Jeremiah's Italian Ice!\nEnjoy delicious eats\, sweet t
+ reats\, and good company while taking in one of the community's favorite g
+ athering spots. We hope to see you there!
+END:VEVENT
+BEGIN:VEVENT
+UID:a66fecf2adc5e1f39234d69922976a3c0fec1664@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Community Garage Sale @ Windsong Ranch
+DTSTART;TZID=America/Chicago:20261003T080000
+DTEND;TZID=America/Chicago:20261003T140000
+LOCATION:Windsong Ranch
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us Saturday & Sunday\, October 3 & 4 from 8 AM to 2 PM for
+  a weekend of garage sale fun throughout the community.\nWant your garage 
+ sale included on our community map? Be sure to register your sale!\nDuring
+  the week of the event\, we’ll send out a Google Map featuring the addre
+ sses of participating residents who choose to be advertised\, making it ea
+ sy for neighbors to find all the best sales around the community.\nWhether
+  you're selling or shopping\, we hope you'll join us for a fun weekend of 
+ bargain hunting and treasure finding!\nRSVP : https://secure.rec1.com/TX/w
+ indsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ0ODg0NDI=
+END:VEVENT
+BEGIN:VEVENT
+UID:4968f51329ae23685905de10d4c7a1305b7c7ec3@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Community Garage Sale @ Windsong Ranch
+DTSTART;TZID=America/Chicago:20261004T080000
+DTEND;TZID=America/Chicago:20261004T140000
+LOCATION:Windsong Ranch
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us Saturday & Sunday\, October 3 & 4 from 8 AM to 2 PM for
+  a weekend of garage sale fun throughout the community.\nWant your garage 
+ sale included on our community map? Be sure to register your sale!\nDuring
+  the week of the event\, we’ll send out a Google Map featuring the addre
+ sses of participating residents who choose to be advertised\, making it ea
+ sy for neighbors to find all the best sales around the community.\nWhether
+  you're selling or shopping\, we hope you'll join us for a fun weekend of 
+ bargain hunting and treasure finding!\nRSVP : https://secure.rec1.com/TX/w
+ indsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ0ODg0NDI=
+END:VEVENT
+BEGIN:VEVENT
+UID:11c6f854851dac7b9e43df543465dc68c1f083f8@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Meeting
+DTSTART;TZID=America/Chicago:20260901T160000
+DTEND;TZID=America/Chicago:20260901T210000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:3c02473189a093f9a1afcb4d5628face79715c22@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Meeting
+DTSTART;TZID=America/Chicago:20260903T160000
+DTEND;TZID=America/Chicago:20260903T210000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:89fff216fd63fcedfd59025e415a9161912eee43@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Rental
+DTSTART;TZID=America/Chicago:20260927T110000
+DTEND;TZID=America/Chicago:20260927T190000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:e4bb8cccbd86db80f068bbbe16598dafed61e0be@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Rental
+DTSTART;TZID=America/Chicago:20261024T183000
+DTEND;TZID=America/Chicago:20261024T213000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:1269f409a69197b8b299814a3ca2dcf61e852b12@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE COMMONS: Rental
+DTSTART;TZID=America/Chicago:20260919T100000
+DTEND;TZID=America/Chicago:20260919T130000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:105b1283cb5a619eadbc22fd9636d9dab3830106@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Coffee with The Chief @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261021T100000
+DTEND;TZID=America/Chicago:20261021T113000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us for Coffee with the Chief and start your morning with a
+  chance to meet Chief Brent Brown\, Assistant Chief Brewer\, and members o
+ f the Prosper Police Department!\nStop by THE BRIDGE on Wednesday\, Octobe
+ r 21\, from 10:00 to 11:30 AM to enjoy coffee and refreshments while getti
+ ng to know the officers who serve our community. This informal gathering i
+ s a great opportunity to ask questions\, learn more about public safety in
+  Windsong Ranch\, and connect with our local law enforcement team.\nThe Pr
+ osper Police Department will also be available to answer questions about e
+ -bikes\, scooters\, and golf carts. Please register by 10:00 AM on Monday\
+ , October 19. Registration is required to help us plan appropriately for r
+ efreshments and seating. This is a ticketed event\, and a downloadable tic
+ ket will be provided after checkout. Please bring your ticket—either on 
+ your mobile device or as a printed copy—as it will be scanned at the doo
+ r for entry. Come grab a cup of coffee\, say hello\, and get to know your 
+ local police department!\nRSVP : https://secure.rec1.com/TX/windsong-ranch
+ -hoa-tx/catalog?filter=c2VhcmNoPTQ1Mzg1NjE=
+END:VEVENT
+BEGIN:VEVENT
+UID:ae2c61d64ee592a2410294c5470fd5c17eecafd0@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Robotics Camp @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261012T100000
+DTEND;TZID=America/Chicago:20261012T130000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Windsong Ranch residents\, RoboThink is hosting a special 2-day
+  STEAM Lab Camp at THE BRIDGE on Monday\, October 12\, and Tuesday\, Octob
+ er 13\, from 10 AM to 1 PM each day. This is robotics reimagined — where
+  art and engineering converge to spark real creativity. Campers build work
+ ing machines like spirograph art bots and kinetic sculptures while explori
+ ng famous artists and movements\, from Mondrian’s geometry to Banksy’s
+  street art.\nAlong the way\, they’ll pick up real engineering skills 
+ — gear ratios\, DC motors\, mechanical design — and problem-solving\, 
+ spatial reasoning\, and creativity\, all through hands-on building. No exp
+ erience necessary\, and RoboThink provides every material. Open to ages 6
+ –12. $129 per camper. Spots are limited to Windsong Ranch residents — 
+ register today!\nQuestions? Contact RoboThink at (469) 712-7130 \, collint
+ x@myrobothink.com \, or visit collintx.myrobothink.com for additional info
+ rmation.
+END:VEVENT
+BEGIN:VEVENT
+UID:11d0e1cbd8c488357a4e917a7994ddcbe4b16af4@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Robotics Camp @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261013T100000
+DTEND;TZID=America/Chicago:20261013T130000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Windsong Ranch residents\, RoboThink is hosting a special 2-day
+  STEAM Lab Camp at THE BRIDGE on Monday\, October 12\, and Tuesday\, Octob
+ er 13\, from 10 AM to 1 PM each day. This is robotics reimagined — where
+  art and engineering converge to spark real creativity. Campers build work
+ ing machines like spirograph art bots and kinetic sculptures while explori
+ ng famous artists and movements\, from Mondrian’s geometry to Banksy’s
+  street art.\nAlong the way\, they’ll pick up real engineering skills 
+ — gear ratios\, DC motors\, mechanical design — and problem-solving\, 
+ spatial reasoning\, and creativity\, all through hands-on building. No exp
+ erience necessary\, and RoboThink provides every material. Open to ages 6
+ –12. $129 per camper. Spots are limited to Windsong Ranch residents — 
+ register today!\nQuestions? Contact RoboThink at (469) 712-7130 \, collint
+ x@myrobothink.com \, or visit collintx.myrobothink.com for additional info
+ rmation.
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ab7fa8c8addfc88cf88ca147684de8fa4cc265@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:National Night Out @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261006T173000
+DTEND;TZID=America/Chicago:20261006T193000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Join us for National Night Out on Tuesday\, October 6\, from 5:
+ 30 to 7:30 PM as we come together to celebrate community\, build connectio
+ ns\, and show our support for the local heroes who help keep us safe!\nNat
+ ional Night Out is a nationwide community-building event that brings resid
+ ents and local law enforcement together to strengthen relationships\, prom
+ ote neighborhood safety\, and create a stronger sense of community.\nMeet 
+ members of the Prosper Police Department and Prosper Fire Department\, get
+  an up-close look at their vehicles\, and enjoy special tours while famili
+ es connect with the heroes who serve our community.\nThe little ones can a
+ lso meet some of their other favorite heroes\, including Spider-Man and Ch
+ ase from PAW Patrol! Plus\, enjoy food trucks serving up delicious bites a
+ nd themed inflatables for the kids to enjoy until sunset!\nBring the whole
+  family\, grab some food\, meet your local heroes\, and enjoy an evening o
+ f fun\, connection\, and community spirit.\nRSVP : https://secure.rec1.com
+ /TX/windsong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ1MDc5MTE=
+END:VEVENT
+BEGIN:VEVENT
+UID:7accc0d2fb284fd618870c6b43617acb52672792@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Girl Scouts @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260914T150000
+DTEND;TZID=America/Chicago:20260914T170000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:354bf85f4a10c88a52b9ab55ea76fef45d11d749@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Girl Scouts @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261006T150000
+DTEND;TZID=America/Chicago:20261006T170000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:f1124db296da1a5cca68e4a25b41425f29e4ba3d@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Girl Scouts @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261020T150000
+DTEND;TZID=America/Chicago:20261020T170000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:9a76964d58a65a72d32f299a42770b604977886e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Girl Scouts @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261103T153000
+DTEND;TZID=America/Chicago:20261103T170000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:22e70e5841c0ba3b1a9dbea3ecae838911efac3c@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Girl Scouts @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261117T153000
+DTEND;TZID=America/Chicago:20261117T170000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:9e85a223ce243727a39397075b9f4b509e40ce91@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Girl Scouts @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261201T153000
+DTEND;TZID=America/Chicago:20261201T170000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:0c9305b3acba06f2cf586f09bf39f34fcce6435e@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Girl Scouts @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261222T153000
+DTEND;TZID=America/Chicago:20261222T170000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:99acf8750507bb4719eafa4d409ba581a53b00f7@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Girl Scouts @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20270105T153000
+DTEND;TZID=America/Chicago:20270105T170000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:c26f9d02cc276020d3f3f9c3ca9fd1536aa4e8c3@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Girl Scouts @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20270119T153000
+DTEND;TZID=America/Chicago:20270119T170000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:3985662841f7fb3fc7083c34e3a31c2e85f695fc@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:THE BRIDGE: Meeting
+DTSTART;TZID=America/Chicago:20260930T180000
+DTEND;TZID=America/Chicago:20260930T200000
+CATEGORIES:Rentals
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a4de0e9056e8639a8fefc5fd4f519fbac23ee0@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Activate Game Night @ Activate Games in Plano
+DTSTART;TZID=America/Chicago:20261012T190000
+DTEND;TZID=America/Chicago:20261012T200000
+LOCATION:Activate Games in Plano
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready for an action-packed evening at Activate Games in Pla
+ no! This unique interactive gaming experience combines physical activity\,
+  problem-solving\, teamwork\, and friendly competition through a series of
+  immersive\, high-tech challenge rooms.\nWork together to complete excitin
+ g missions\, test your reflexes\, tackle mental puzzles\, and race against
+  the clock as you progress through a variety of games designed for all ski
+ ll levels. Whether you're looking to challenge yourself\, compete with fri
+ ends\, or simply try something new\, there's something for everyone.\nJoin
+  us on Monday\, October 12\, from 7 PM to 8 PM at Activate Games Plano\, l
+ ocated at 5013 W Plano Pkwy\, Plano\, TX 75093. Please plan to meet us at 
+ the venue and arrive by 6:45 PM to allow time for group check-in. The cost
+  to attend is $20 per person.\nTo keep your energy up between rounds\, we'
+ ll be providing a variety of Jimmy John's sandwiches\, chips\, drinks\, an
+ d additional snacks throughout the evening.\nA completed waiver is require
+ d for each person attending. To help avoid delays during check-in\, please
+  complete your waiver after registering using the link provided below.\nDo
+ n't miss this opportunity to experience one of the area's most exciting in
+ teractive attractions while connecting with fellow Windsong Ranch resident
+ s. Space is limited to the first 50 residents\, so be sure to register ear
+ ly!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/catalog?filte
+ r=c2VhcmNoPTQ1MDUyNzA=
+END:VEVENT
+BEGIN:VEVENT
+UID:44601f77af1e52fa6afa31cce2955f2535a2bd0f@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Cowboys Watch Party @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261026T190000
+DTEND;TZID=America/Chicago:20261026T220000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Football season is here! Join us on Monday\, October 26\, begin
+ ning at 7:15 PM \, for a prime-time matchup as the Dallas Cowboys take on 
+ the Philadelphia Eagles at THE BRIDGE. Whether you prefer watching from in
+ side the amenity center or under the stars on our giant outdoor projection
+  screen\, this is the perfect opportunity to enjoy a fun evening of footba
+ ll and community.\nResidents ages 21 and older can enjoy complimentary bee
+ r while supplies last\, and food trucks will be on-site with a variety of 
+ game-day favorites available for purchase. You're also welcome to bring yo
+ ur own food and beverages to enjoy throughout the game. Bring a lawn chair
+  or blanket for outdoor viewing\, or arrive early to claim a first-come\, 
+ first-served seat inside and catch the action on one of three TVs.\nBe sur
+ e to show off your team spirit during our Windsong Fanatics Face-Off at ha
+ lftime! From jerseys and themed outfits to over-the-top game-day gear\, we
+ 'll be recognizing the most spirited NFL fans in attendance. The top three
+  fanatics will take home prizes and earn bragging rights as Windsong Ranch
+ 's ultimate football fans.\nGrab your friends\, wear your team colors\, an
+ d join us at THE BRIDGE for a night of football\, food\, and fun as we che
+ er on one of the NFL's biggest rivalries. We can't wait to kick off the se
+ ason with you!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/ca
+ talog?filter=c2VhcmNoPTQ1MTg0MDM=
+END:VEVENT
+BEGIN:VEVENT
+UID:0832112e5d54861e19624653842f32deebd3cf8d@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Dinkin' Dudes @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261002T180000
+DTEND;TZID=America/Chicago:20261002T220000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+END:VEVENT
+BEGIN:VEVENT
+UID:450071f197943eae971b1d27a918e8f904ae2af2@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:National Coffee Day @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20260929T090000
+DTEND;TZID=America/Chicago:20260929T110000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Celebrate National Coffee Day with us and get your morning caff
+ eine fix from Coffee Bae Coffee Cart! Join us on Tuesday\, September 29 fr
+ om 9 AM to 11 AM at THE BRIDGE for delicious coffee and a fun morning with
+  your neighbors. And the best part? The first 50 coffees are FREE! Come gr
+ ab a cup\, start your morning right\, and celebrate National Coffee Day wi
+ th us!
+END:VEVENT
+BEGIN:VEVENT
+UID:1a8032d82fb6e6ab06ffa83b64bfbcc8ac97b6cb@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Flicks & Frights Movie Night @ THE BRIDGE
+DTSTART;TZID=America/Chicago:20261030T190000
+DTEND;TZID=America/Chicago:20261030T213000
+LOCATION:THE BRIDGE
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Get ready for a spooktacular night on Friday\, October 30 \, at
+  THE BRIDGE! Gather your family and friends for an outdoor movie night fea
+ turing Hocus Pocus 2 on the big screen under the stars. The fun begins at 
+ 7:00 PM with a special visit from the Sanderson Sisters! Meet Winifred\, M
+ ary\, and Sarah\, snap some spooky photos\, and get into the Halloween spi
+ rit before the movie begins at 7:30 PM .\nEnjoy free popcorn while you wat
+ ch\, and grab something sweet from our dessert food trucks\, available for
+  purchase throughout the evening. This is a ticketed event\, and a downloa
+ dable ticket will be provided after checkout. Please bring your ticket—e
+ ither on your mobile device or as a printed copy—as it will be scanned a
+ t the door for entry. Bring your blankets\, lawn chairs\, and Halloween sp
+ irit for a frightfully fun night!\nRSVP : https://secure.rec1.com/TX/winds
+ ong-ranch-hoa-tx/catalog?filter=c2VhcmNoPTQ1Mzg2MjA=
+END:VEVENT
+BEGIN:VEVENT
+UID:33184ee4d596169763eb0cdb081bdaf069d4d446@windsong-calendar
+DTSTAMP:20261010T191441Z
+SUMMARY:Mini Moon Market @ THE COMMONS
+DTSTART;TZID=America/Chicago:20261024T160000
+DTEND;TZID=America/Chicago:20261024T190000
+LOCATION:THE COMMONS
+CATEGORIES:Lifestyle Events
+DESCRIPTION:Shop\, stroll\, and discover something new at the Mini Moon Mar
+ ket! Join us on Saturday\, October 24\, from 4 to 7PM at THE COMMONS for a
+ n evening of local shopping and unique finds.\nBrowse a variety of vendors
+  offering clothing\, pet supplies\, artisan goods\, handmade items\, home 
+ décor\, gifts\, and so much more. Whether you’re shopping for yourself\
+ , your home\, your furry friend\, or checking a few names off your gift li
+ st\, there will be something for everyone!\nBring the family\, invite your
+  neighbors\, and enjoy an evening of shopping under the moonlight at the M
+ ini Moon Market!\nRSVP : https://secure.rec1.com/TX/windsong-ranch-hoa-tx/
+ catalog?filter=c2VhcmNoPTQ1NDc2OTQ=
+END:VEVENT
+END:VCALENDAR
